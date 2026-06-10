@@ -41,8 +41,8 @@ permalink: /
 <li><a href="/jobs/senior-software-engineer-data-products-at-chainlink-labs-7147/"><span>Senior Software Engineer, Data Products <span class="co">Chainlink Labs</span></span><span class="pay">$129,000–$304,000</span></a></li>
 <li><a href="/jobs/senior-technical-product-manager-at-injective-labs-7447/"><span>Senior Technical Product Manager <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/senior-technical-product-manager-swap-at-1inch-7199/"><span>Senior Technical Product Manager (Swap) <span class="co">1inch</span></span></a></li>
-<li><a href="/jobs/senior-lead-product-manager-at-pgon-7256/"><span>Senior/Lead Product Manager <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/senior-lead-product-manager-at-it-holding-7257/"><span>Senior/Lead Product Manager <span class="co">IT Holding</span></span></a></li>
+<li><a href="/jobs/senior-lead-product-manager-at-pgon-7256/"><span>Senior/Lead Product Manager <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/sr-product-manager-onchain-at-kraken-7547/"><span>Sr Product Manager, Onchain <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 </ul>
@@ -190,8 +190,8 @@ permalink: /
 <li><a href="/jobs/head-of-sales-at-icon-finance-7320/"><span>Head of Sales <span class="co">ICON Finance</span></span><span class="pay">$2,000–$3,000</span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
-<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
+<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"><span>International Accountant / Finance Operations Specialist <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
@@ -258,8 +258,8 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-evercode-lab-7348/"><span>Technical Project Manager <span class="co">Evercode Lab</span></span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7905/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/ux-writer-accelerator-program-at-binance-7608/"><span>UX Writer (Accelerator Program) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
 <li><a href="/jobs/vice-president-of-marketing-at-offchain-8083/"><span>Vice President of Marketing <span class="co">Offchain</span></span><span class="pay">$84,000–$150,000</span></a></li>
+<li><a href="/jobs/vice-president-of-marketing-at-offchain-labs-7950/"><span>Vice President of Marketing <span class="co">Offchain Labs</span></span></a></li>
 <li><a href="/jobs/vp-finance-bastion-at-bastion-7954/"><span>VP Finance - Bastion <span class="co">Bastion</span></span></a></li>
 </ul>
 <h2>Exchange / Trading (3)</h2>
