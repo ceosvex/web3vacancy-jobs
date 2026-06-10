@@ -4,27 +4,13 @@ company: "Alpaca"
 location: "Remote"
 salary: "$150,000–$250,000"
 employment_type: "full-time"
-date: "2026-05-30T17:48:55.824801+00:00"
+date: "Sat May 30 2026 17:48:55 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/director-of-engineering-trading-at-alpaca-7201/"
 description: "Director of Engineering, Trading at Alpaca. Alpaca is seeking a Director of Engineering for their Trading division. This remote role involves leading a…"
 apply_url: "https://web3vacancy.com/job/director-of-engineering-trading-at-alpaca-7201"
 layout: job
 ---
 
-# Director of Engineering, Trading at Alpaca
+<p>Alpaca is seeking a Director of Engineering for their Trading division. This remote role involves leading a team to enhance institutional trading capabilities across multiple asset classes, ensuring a robust and reliable trading platform.</p>
 
-**Company:** Alpaca  
-**Location:** Remote  
-**Salary:** $150,000–$250,000  
-**Type:** full-time
-
-Alpaca is seeking a Director of Engineering for their Trading division. This remote role involves leading a team to enhance institutional trading capabilities across multiple asset classes, ensuring a robust and reliable trading platform.
-
-**Skills:** `Cross-Asset` · `Stakeholder Communication` · `Code Reviews` · `Distributed Systems` · `Production Deployment` · `Brokerage Technology` · `Team Scaling` · `Engineering Leadership` · `Hedge Funds` · `Market Infrastructure` · `Algorithmic Trading` · `Regulated Environments`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/director-of-engineering-trading-at-alpaca-7201)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Cross-Asset</span><span class="s">Stakeholder Communication</span><span class="s">Code Reviews</span><span class="s">Distributed Systems</span><span class="s">Production Deployment</span><span class="s">Brokerage Technology</span><span class="s">Team Scaling</span><span class="s">Engineering Leadership</span><span class="s">Hedge Funds</span><span class="s">Market Infrastructure</span><span class="s">Algorithmic Trading</span><span class="s">Regulated Environments</span></div>

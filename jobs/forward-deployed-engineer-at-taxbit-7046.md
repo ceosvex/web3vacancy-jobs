@@ -4,27 +4,13 @@ company: "TaxBit"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-05-28T23:20:56.296672+00:00"
+date: "Thu May 28 2026 23:20:56 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/forward-deployed-engineer-at-taxbit-7046/"
 description: "Forward Deployed Engineer at TaxBit. TaxBit is seeking a Forward Deployed Engineer in Madrid to provide technical leadership and client integration…"
 apply_url: "https://web3vacancy.com/job/forward-deployed-engineer-at-taxbit-7046"
 layout: job
 ---
 
-# Forward Deployed Engineer at TaxBit
+<p>TaxBit is seeking a Forward Deployed Engineer in Madrid to provide technical leadership and client integration expertise while contributing to the core platform engineering.</p>
 
-**Company:** TaxBit  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-TaxBit is seeking a Forward Deployed Engineer in Madrid to provide technical leadership and client integration expertise while contributing to the core platform engineering.
-
-**Skills:** `Typescript` · `NodeJS` · `React` · `Python` · `AWS` · `DataDog` · `GitHub CI/CD` · `big data technologies`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/forward-deployed-engineer-at-taxbit-7046)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Typescript</span><span class="s">NodeJS</span><span class="s">React</span><span class="s">Python</span><span class="s">AWS</span><span class="s">DataDog</span><span class="s">GitHub CI/CD</span><span class="s">big data technologies</span></div>

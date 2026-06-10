@@ -4,27 +4,11 @@ company: "Lightspark"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-05-29T17:38:53.467551+00:00"
+date: "Fri May 29 2026 17:38:53 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/customer-success-lead-lightspark-at-lightspark-7142/"
 description: "Customer Success Lead - Lightspark at Lightspark. Join Lightspark as a Customer Success Lead to manage strategic customer relationships and drive account…"
 apply_url: "https://web3vacancy.com/job/customer-success-lead-lightspark-at-lightspark-7142"
 layout: job
 ---
 
-# Customer Success Lead - Lightspark at Lightspark
-
-**Company:** Lightspark  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join Lightspark as a Customer Success Lead to manage strategic customer relationships and drive account growth in a fast-paced fintech environment.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/customer-success-lead-lightspark-at-lightspark-7142)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Lightspark as a Customer Success Lead to manage strategic customer relationships and drive account growth in a fast-paced fintech environment.</p>

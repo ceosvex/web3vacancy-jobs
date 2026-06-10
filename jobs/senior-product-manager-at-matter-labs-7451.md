@@ -4,27 +4,11 @@ company: "Matter Labs"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-03T00:56:14.680823+00:00"
+date: "Wed Jun 03 2026 00:56:14 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-product-manager-at-matter-labs-7451/"
 description: "Senior Product Manager at Matter Labs. Join Matter Labs as a Senior Product Manager to drive product outcomes in a remote-first environment. Work at the…"
 apply_url: "https://web3vacancy.com/job/senior-product-manager-at-matter-labs-7451"
 layout: job
 ---
 
-# Senior Product Manager at Matter Labs
-
-**Company:** Matter Labs  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join Matter Labs as a Senior Product Manager to drive product outcomes in a remote-first environment. Work at the intersection of Web3 engineering and institutional finance, shaping the future of private settlement infrastructure.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-product-manager-at-matter-labs-7451)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Matter Labs as a Senior Product Manager to drive product outcomes in a remote-first environment. Work at the intersection of Web3 engineering and institutional finance, shaping the future of private settlement infrastructure.</p>

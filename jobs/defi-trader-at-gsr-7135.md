@@ -4,27 +4,11 @@ company: "GSR"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-05-29T17:36:04.471681+00:00"
+date: "Fri May 29 2026 17:36:04 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/defi-trader-at-gsr-7135/"
 description: "DeFi Trader at GSR. Join GSR as a DeFi Trader to drive trading activity across decentralized markets, focusing on performance and risk management. Ideal…"
 apply_url: "https://web3vacancy.com/job/defi-trader-at-gsr-7135"
 layout: job
 ---
 
-# DeFi Trader at GSR
-
-**Company:** GSR  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join GSR as a DeFi Trader to drive trading activity across decentralized markets, focusing on performance and risk management. Ideal for those with a passion for crypto and DeFi.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/defi-trader-at-gsr-7135)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join GSR as a DeFi Trader to drive trading activity across decentralized markets, focusing on performance and risk management. Ideal for those with a passion for crypto and DeFi.</p>

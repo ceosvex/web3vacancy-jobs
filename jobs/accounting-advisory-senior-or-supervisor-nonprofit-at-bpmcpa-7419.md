@@ -4,27 +4,13 @@ company: "Bpmcpa"
 location: "Remote"
 salary: "$90,000–$150,000"
 employment_type: "full-time"
-date: "2026-06-02T18:36:47.036085+00:00"
+date: "Tue Jun 02 2026 18:36:47 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419/"
 description: "Accounting Advisory Senior or Supervisor - Nonprofit at Bpmcpa. Join BPM as an Accounting Advisory Senior/Supervisor to support nonprofit clients with…"
 apply_url: "https://web3vacancy.com/job/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419"
 layout: job
 ---
 
-# Accounting Advisory Senior or Supervisor - Nonprofit at Bpmcpa
+<p>Join BPM as an Accounting Advisory Senior/Supervisor to support nonprofit clients with fund accounting and financial reporting. Enjoy a flexible remote work environment with a competitive salary.</p>
 
-**Company:** Bpmcpa  
-**Location:** Remote  
-**Salary:** $90,000–$150,000  
-**Type:** full-time
-
-Join BPM as an Accounting Advisory Senior/Supervisor to support nonprofit clients with fund accounting and financial reporting. Enjoy a flexible remote work environment with a competitive salary.
-
-**Skills:** `Accounting` · `Finance` · `Nonprofit` · `Fund Accounting` · `QuickBooks` · `NetSuite` · `Sage Intacct` · `Blackbaud Financial Edge` · `Raisers Edge` · `Bill.com` · `Expensify` · `Concur`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/accounting-advisory-senior-or-supervisor-nonprofit-at-bpmcpa-7419)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Accounting</span><span class="s">Finance</span><span class="s">Nonprofit</span><span class="s">Fund Accounting</span><span class="s">QuickBooks</span><span class="s">NetSuite</span><span class="s">Sage Intacct</span><span class="s">Blackbaud Financial Edge</span><span class="s">Raisers Edge</span><span class="s">Bill.com</span><span class="s">Expensify</span><span class="s">Concur</span></div>

@@ -4,27 +4,11 @@ company: "Chainlink Labs"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-05-29T23:43:34.420263+00:00"
+date: "Fri May 29 2026 23:43:34 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/product-manager-data-feeds-at-chainlink-labs-7151/"
 description: "Product Manager, Data Feeds at Chainlink Labs. Join Chainlink Labs as a Product Manager to drive the development of innovative data products for…"
 apply_url: "https://web3vacancy.com/job/product-manager-data-feeds-at-chainlink-labs-7151"
 layout: job
 ---
 
-# Product Manager, Data Feeds at Chainlink Labs
-
-**Company:** Chainlink Labs  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join Chainlink Labs as a Product Manager to drive the development of innovative data products for decentralized finance, focusing on high-quality market data integration into blockchain networks.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/product-manager-data-feeds-at-chainlink-labs-7151)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Chainlink Labs as a Product Manager to drive the development of innovative data products for decentralized finance, focusing on high-quality market data integration into blockchain networks.</p>
