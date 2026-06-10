@@ -187,8 +187,8 @@ permalink: /
 <li><a href="/jobs/head-of-sales-at-icon-finance-7320/"><span>Head of Sales <span class="co">ICON Finance</span></span><span class="pay">$2,000–$3,000</span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
-<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
+<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"><span>International Accountant / Finance Operations Specialist <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
@@ -199,8 +199,8 @@ permalink: /
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/partner-development-manager-at-bvnk-7753/"><span>Partner Development Manager <span class="co">Bvnk</span></span><span class="pay">$130,000–$165,000</span></a></li>
 <li><a href="/jobs/personal-manager-at-cifra-markets-7882/"><span>Personal Manager <span class="co">Cifra Markets</span></span></a></li>
-<li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/principal-product-manager-growth-at-circle-7329/"><span>Principal Product Manager, Growth <span class="co">Circle</span></span><span class="pay">$200,000–$260,000</span></a></li>
 <li><a href="/jobs/privacy-manager-at-bitgo-7611/"><span>Privacy Manager <span class="co">BitGo</span></span><span class="pay">$140,000–$165,000</span></a></li>
 <li><a href="/jobs/product-analyst-at-crypto-neobank-7919/"><span>Product Analyst <span class="co">Crypto Neobank</span></span><span class="pay">Up to $5,000</span></a></li>

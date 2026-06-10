@@ -193,8 +193,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Head of Sales](https://web3vacancy.github.io/jobs/head-of-sales-at-icon-finance-7320/) | ICON Finance | $2,000–$3,000 |
 | [Head of Technical Customer Experience](https://web3vacancy.github.io/jobs/head-of-technical-customer-experience-at-polymarket-8068/) | Polymarket | — |
 | [Institutional Business Development Manager - Wintermute](https://web3vacancy.github.io/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/) | Wintermute | — |
-| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-polymarket-7746/) | Polymarket | — |
+| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
 | [Institutional Sales Associate - Blockchain](https://web3vacancy.github.io/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/) | Blockchain | — |
 | [International Accountant / Finance Operations Specialist](https://web3vacancy.github.io/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/) | EMCD | — |
 | [Legal Counsel - Data Protection](https://web3vacancy.github.io/jobs/legal-counsel-data-protection-at-bitpanda-7293/) | Bitpanda | — |
@@ -205,8 +205,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [On-Chain Risk Strategy Manager](https://web3vacancy.github.io/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/) | Coins.ph | — |
 | [Partner Development Manager](https://web3vacancy.github.io/jobs/partner-development-manager-at-bvnk-7753/) | Bvnk | $130,000–$165,000 |
 | [Personal Manager](https://web3vacancy.github.io/jobs/personal-manager-at-cifra-markets-7882/) | Cifra Markets | — |
-| [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/) | Crypto.com | $120,000–$200,000 |
 | [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/) | Crypto.com | $120,000–$200,000 |
+| [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/) | Crypto.com | $120,000–$200,000 |
 | [Principal Product Manager, Growth](https://web3vacancy.github.io/jobs/principal-product-manager-growth-at-circle-7329/) | Circle | $200,000–$260,000 |
 | [Privacy Manager](https://web3vacancy.github.io/jobs/privacy-manager-at-bitgo-7611/) | BitGo | $140,000–$165,000 |
 | [Product Analyst](https://web3vacancy.github.io/jobs/product-analyst-at-crypto-neobank-7919/) | Crypto Neobank | Up to $5,000 |
