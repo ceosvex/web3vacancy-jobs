@@ -201,8 +201,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Institutional Sales Associate - Blockchain](https://web3vacancy.github.io/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/) | Blockchain | — |
 | [International Accountant / Finance Operations Specialist](https://web3vacancy.github.io/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/) | EMCD | — |
 | [Legal Counsel - Data Protection](https://web3vacancy.github.io/jobs/legal-counsel-data-protection-at-bitpanda-7293/) | Bitpanda | — |
-| [Legal Counsel - Prediction and Capital Markets](https://web3vacancy.github.io/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7196/) | Crypto.com | $250,000–$350,000 |
 | [Legal Counsel - Prediction and Capital Markets](https://web3vacancy.github.io/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7211/) | Crypto.com | $112,000–$188,000 |
+| [Legal Counsel - Prediction and Capital Markets](https://web3vacancy.github.io/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7196/) | Crypto.com | $250,000–$350,000 |
 | [Legal Operations Associate](https://web3vacancy.github.io/jobs/legal-operations-associate-at-sei-labs-7947/) | Sei Labs | — |
 | [Manager- Banking Alliance](https://web3vacancy.github.io/jobs/manager-banking-alliance-at-unlimit-7633/) | Unlimit | $98,000–$162,000 |
 | [On-Chain Risk Strategy Manager](https://web3vacancy.github.io/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/) | Coins.ph | — |
@@ -255,8 +255,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Transaction Monitoring & Risk Analyst](https://web3vacancy.github.io/jobs/senior-transaction-monitoring-and-risk-analyst-at-cryptobot-7363/) | CryptoBot | — |
 | [Senior VIP Relationship Manager](https://web3vacancy.github.io/jobs/senior-vip-relationship-manager-at-kraken-7514/) | Kraken | — |
 | [Senior/Staff Product Manager, Token Listing](https://web3vacancy.github.io/jobs/senior-staff-product-manager-token-listing-at-okx-7638/) | OKX | — |
-| [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-polymarket-7744/) | Polymarket | — |
 | [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-bitgo-7734/) | BitGo | — |
+| [Solutions Engineer](https://web3vacancy.github.io/jobs/solutions-engineer-at-polymarket-7744/) | Polymarket | — |
 | [Sr. Data Analyst, Product](https://web3vacancy.github.io/jobs/sr-data-analyst-product-at-kraken-7708/) | Kraken | — |
 | [Staff Software Engineer - MetaMask (Money Movement)](https://web3vacancy.github.io/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/) | Consensys | $146,000–$218,000 |
 | [Strategic Account Manager](https://web3vacancy.github.io/jobs/strategic-account-manager-at-blockdaemon-7045/) | Blockdaemon | $130,000–$150,000 |

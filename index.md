@@ -195,8 +195,8 @@ permalink: /
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"><span>International Accountant / Finance Operations Specialist <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
-<li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7196/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$250,000–$350,000</span></a></li>
 <li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7211/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$112,000–$188,000</span></a></li>
+<li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7196/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$250,000–$350,000</span></a></li>
 <li><a href="/jobs/legal-operations-associate-at-sei-labs-7947/"><span>Legal Operations Associate <span class="co">Sei Labs</span></span></a></li>
 <li><a href="/jobs/manager-banking-alliance-at-unlimit-7633/"><span>Manager- Banking Alliance <span class="co">Unlimit</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
@@ -249,8 +249,8 @@ permalink: /
 <li><a href="/jobs/senior-transaction-monitoring-and-risk-analyst-at-cryptobot-7363/"><span>Senior Transaction Monitoring &amp; Risk Analyst <span class="co">CryptoBot</span></span></a></li>
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-staff-product-manager-token-listing-at-okx-7638/"><span>Senior/Staff Product Manager, Token Listing <span class="co">OKX</span></span></a></li>
-<li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
+<li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/strategic-account-manager-at-blockdaemon-7045/"><span>Strategic Account Manager <span class="co">Blockdaemon</span></span><span class="pay">$130,000–$150,000</span></a></li>
