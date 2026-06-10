@@ -6,14 +6,46 @@
 <title>{{ page.title | default: site.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-body{max-width:760px;margin:0 auto;padding:24px 18px;font:16px/1.6 -apple-system,Segoe UI,Roboto,sans-serif;color:#111;background:#fff}
-a{color:#0a58ca}h1{font-size:24px}h2{margin-top:28px}code{background:#f2f2f2;padding:1px 5px}
-.site-foot{margin-top:40px;padding-top:16px;border-top:1px solid #eee;font-size:13px;color:#666}
+:root{--bg:#06060A;--panel:#0D0D16;--bd:rgba(255,255,255,.10);--tx:#e8e8ee;--mut:#8a8a96;--pink:#F02E65;--cyan:#00CFFF;--green:#00D395;--violet:#a78bfa;--mono:'IBM Plex Mono',ui-monospace,monospace;--sans:'Inter',-apple-system,Segoe UI,Roboto,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:var(--sans);font-size:15px;line-height:1.65;-webkit-font-smoothing:antialiased}
+a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:780px;margin:0 auto;padding:0 20px}
+header.site{border-bottom:1px solid var(--bd);padding:16px 0}
+header.site .wrap{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.brand{font-family:var(--mono);font-weight:600;font-size:15px;letter-spacing:.02em;color:#fff}
+.brand b{color:var(--pink)}
+.kicker{font-family:var(--mono);font-size:10px;color:var(--mut);text-transform:uppercase;letter-spacing:.12em}
+main{padding:30px 0 60px}
+h1{font-size:27px;line-height:1.25;margin:0 0 16px;letter-spacing:-.01em}
+h2{font-family:var(--mono);font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.12em;color:var(--mut);margin:36px 0 12px;padding-bottom:9px;border-bottom:1px solid var(--bd)}
+p{margin:0 0 14px}
+.intro{color:var(--mut);font-size:15px;margin-bottom:6px}
+.meta{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 22px}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:.04em;color:var(--tx);background:var(--panel);border:1px solid var(--bd);padding:6px 11px}
+.chip.sal{color:var(--green);border-color:rgba(0,211,149,.32)}
+.summary{color:#c8c8d2}
+.skills{display:flex;flex-wrap:wrap;gap:6px;margin:18px 0 4px}
+.skills .s{font-family:var(--mono);font-size:10px;text-transform:uppercase;letter-spacing:.06em;color:var(--violet);border:1px solid rgba(139,92,246,.4);padding:4px 9px}
+.apply{display:inline-block;margin:26px 0 6px;font-family:var(--mono);font-size:13px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:#fff;background:var(--pink);padding:13px 22px;border:1px solid var(--pink)}
+.apply:hover{background:transparent;color:var(--pink);text-decoration:none}
+.back{display:inline-block;margin-bottom:16px;font-family:var(--mono);font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.08em}
+ul.jobs{list-style:none;padding:0;margin:0}
+ul.jobs li{border-bottom:1px solid var(--bd)}
+ul.jobs li a{display:flex;justify-content:space-between;align-items:baseline;gap:14px;padding:13px 4px;color:var(--tx)}
+ul.jobs li a:hover{background:rgba(255,255,255,.03);text-decoration:none}
+ul.jobs .co{color:var(--mut);font-size:13px;font-weight:400}
+ul.jobs .pay{font-family:var(--mono);font-size:12px;color:var(--green);white-space:nowrap;flex-shrink:0}
+footer.site{border-top:1px solid var(--bd);padding:26px 0;color:var(--mut);font-size:13px}
 </style>
 </head>
 <body>
-<main>{{ content }}</main>
-<footer class="site-foot">Powered by <a href="https://web3vacancy.com">web3vacancy.com</a> — the web3 &amp; crypto job board.</footer>
+<header class="site"><div class="wrap"><a class="brand" href="https://web3vacancy.com"><b>web3</b>vacancy</a><span class="kicker">Live jobs mirror</span></div></header>
+<main class="wrap">{{ content }}</main>
+<footer class="site"><div class="wrap">Listings mirrored from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated web3 &amp; crypto job board. Apply on the live site.</div></footer>
 </body>
 </html>

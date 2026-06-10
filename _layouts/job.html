@@ -1,4 +1,13 @@
 ---
 layout: default
 ---
-{{ content }}
+<a class="back" href="{{ '/' | relative_url }}">&larr; All jobs</a>
+<h1>{{ page.title }}</h1>
+<div class="meta">
+{% if page.company %}<span class="chip">{{ page.company }}</span>{% endif %}
+{% if page.location %}<span class="chip">{{ page.location }}</span>{% endif %}
+{% if page.salary and page.salary != "Competitive" %}<span class="chip sal">{{ page.salary }}</span>{% endif %}
+{% if page.employment_type %}<span class="chip">{{ page.employment_type }}</span>{% endif %}
+</div>
+<div class="summary">{{ content }}</div>
+<a class="apply" href="{{ page.apply_url }}">Apply on web3vacancy.com &rarr;</a>
