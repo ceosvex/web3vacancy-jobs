@@ -4,27 +4,13 @@ company: "QuickNode"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-06T01:51:38.195978+00:00"
+date: "Sat Jun 06 2026 01:51:38 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/go-to-market-operations-analyst-at-quicknode-7761/"
 description: "Go To Market Operations Analyst at QuickNode. Join QuickNode as a Go To Market Operations Analyst to optimize revenue systems and automate processes using…"
 apply_url: "https://web3vacancy.com/job/go-to-market-operations-analyst-at-quicknode-7761"
 layout: job
 ---
 
-# Go To Market Operations Analyst at QuickNode
+<p>Join QuickNode as a Go To Market Operations Analyst to optimize revenue systems and automate processes using AI tools. Work remotely and be part of a dynamic team in the blockchain ecosystem.</p>
 
-**Company:** QuickNode  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join QuickNode as a Go To Market Operations Analyst to optimize revenue systems and automate processes using AI tools. Work remotely and be part of a dynamic team in the blockchain ecosystem.
-
-**Skills:** `Salesforce` · `Claude Code` · `n8n` · `Python` · `JavaScript` · `HubSpot` · `RevOps.io`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/go-to-market-operations-analyst-at-quicknode-7761)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Salesforce</span><span class="s">Claude Code</span><span class="s">n8n</span><span class="s">Python</span><span class="s">JavaScript</span><span class="s">HubSpot</span><span class="s">RevOps.io</span></div>

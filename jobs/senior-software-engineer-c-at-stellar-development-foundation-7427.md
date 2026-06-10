@@ -4,27 +4,13 @@ company: "Stellar Development Foundation"
 location: "Hybrid"
 salary: "$180,000–$290,000"
 employment_type: "full-time"
-date: "2026-06-02T18:39:43.103817+00:00"
+date: "Tue Jun 02 2026 18:39:43 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-software-engineer-c-at-stellar-development-foundation-7427/"
 description: "Senior Software Engineer, C++ at Stellar Development Foundation. Join Stellar Development Foundation as a Senior Software Engineer, C++ to work on…"
 apply_url: "https://web3vacancy.com/job/senior-software-engineer-c-at-stellar-development-foundation-7427"
 layout: job
 ---
 
-# Senior Software Engineer, C++ at Stellar Development Foundation
+<p>Join Stellar Development Foundation as a Senior Software Engineer, C++ to work on cutting-edge blockchain technology and contribute to the Stellar network's growth. Competitive salary and benefits offered.</p>
 
-**Company:** Stellar Development Foundation  
-**Location:** Hybrid  
-**Salary:** $180,000–$290,000  
-**Type:** full-time
-
-Join Stellar Development Foundation as a Senior Software Engineer, C++ to work on cutting-edge blockchain technology and contribute to the Stellar network's growth. Competitive salary and benefits offered.
-
-**Skills:** `C++` · `Rust` · `Blockchain` · `Distributed Systems` · `Performance Debugging` · `Scalability` · `Peer-to-peer networking`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-software-engineer-c-at-stellar-development-foundation-7427)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">C++</span><span class="s">Rust</span><span class="s">Blockchain</span><span class="s">Distributed Systems</span><span class="s">Performance Debugging</span><span class="s">Scalability</span><span class="s">Peer-to-peer networking</span></div>

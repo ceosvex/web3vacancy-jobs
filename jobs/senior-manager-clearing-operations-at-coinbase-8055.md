@@ -4,27 +4,11 @@ company: "Coinbase"
 location: "Remote"
 salary: "$112,000–$188,000"
 employment_type: "full-time"
-date: "2026-06-09T17:29:47.576280+00:00"
+date: "Tue Jun 09 2026 17:29:47 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-manager-clearing-operations-at-coinbase-8055/"
 description: "Senior Manager, Clearing Operations at Coinbase. Join Coinbase as a Senior Manager in Clearing Operations, leading the end-to-end post-trade clearing…"
 apply_url: "https://web3vacancy.com/job/senior-manager-clearing-operations-at-coinbase-8055"
 layout: job
 ---
 
-# Senior Manager, Clearing Operations at Coinbase
-
-**Company:** Coinbase  
-**Location:** Remote  
-**Salary:** $112,000–$188,000  
-**Type:** full-time
-
-Join Coinbase as a Senior Manager in Clearing Operations, leading the end-to-end post-trade clearing function for the Coinbase Derivatives Exchange. Drive operational excellence and regulatory compliance in a remote-first environment.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-manager-clearing-operations-at-coinbase-8055)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Coinbase as a Senior Manager in Clearing Operations, leading the end-to-end post-trade clearing function for the Coinbase Derivatives Exchange. Drive operational excellence and regulatory compliance in a remote-first environment.</p>

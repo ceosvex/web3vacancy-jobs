@@ -4,27 +4,13 @@ company: "SatoshiLabs"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-01T12:16:57.192586+00:00"
+date: "Mon Jun 01 2026 12:16:57 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/security-engineer-blue-teamer-at-satoshilabs-7294/"
 description: "Security Engineer - Blue Teamer at SatoshiLabs. Join SatoshiLabs as a Security Engineer - Blue Teamer. Focus on monitoring, implementation, and internal…"
 apply_url: "https://web3vacancy.com/job/security-engineer-blue-teamer-at-satoshilabs-7294"
 layout: job
 ---
 
-# Security Engineer - Blue Teamer at SatoshiLabs
+<p>Join SatoshiLabs as a Security Engineer - Blue Teamer. Focus on monitoring, implementation, and internal security. Work with a dedicated team in a security-first company.</p>
 
-**Company:** SatoshiLabs  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join SatoshiLabs as a Security Engineer - Blue Teamer. Focus on monitoring, implementation, and internal security. Work with a dedicated team in a security-first company.
-
-**Skills:** `Linux` · `Git` · `Github` · `Python` · `Slack apps` · `Graylog` · `Jenkins` · `Jamf Pro` · `Wazuh` · `Nessus` · `Suricata`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/security-engineer-blue-teamer-at-satoshilabs-7294)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Linux</span><span class="s">Git</span><span class="s">Github</span><span class="s">Python</span><span class="s">Slack apps</span><span class="s">Graylog</span><span class="s">Jenkins</span><span class="s">Jamf Pro</span><span class="s">Wazuh</span><span class="s">Nessus</span><span class="s">Suricata</span></div>

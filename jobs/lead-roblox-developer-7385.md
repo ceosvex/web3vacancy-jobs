@@ -4,27 +4,13 @@ company: "Stealth Project"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-02T12:01:19.640067+00:00"
+date: "Tue Jun 02 2026 12:01:19 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/lead-roblox-developer-7385/"
 description: "Lead Roblox Developer at Stealth Project. We are looking for a strong Roblox developer to take technical leadership of the team and ensure the quality of…"
 apply_url: "https://web3vacancy.com/job/lead-roblox-developer-7385"
 layout: job
 ---
 
-# Lead Roblox Developer at Stealth Project
+<p>We are looking for a strong Roblox developer to take technical leadership of the team and ensure the quality of game systems implementation.</p>
 
-**Company:** Stealth Project  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-We are looking for a strong Roblox developer to take technical leadership of the team and ensure the quality of game systems implementation.
-
-**Skills:** `Roblox` · `Luau`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/lead-roblox-developer-7385)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Roblox</span><span class="s">Luau</span></div>

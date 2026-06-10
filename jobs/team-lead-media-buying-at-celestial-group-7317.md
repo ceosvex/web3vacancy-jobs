@@ -4,27 +4,13 @@ company: "Celestial Group"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-01T16:02:10.088469+00:00"
+date: "Mon Jun 01 2026 16:02:10 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/team-lead-media-buying-at-celestial-group-7317/"
 description: "Team Lead Media Buying at Celestial Group. Celestial Group is looking for a Team Lead Media Buying to lead a team of Facebook media buyers in the iGaming…"
 apply_url: "https://web3vacancy.com/job/team-lead-media-buying-at-celestial-group-7317"
 layout: job
 ---
 
-# Team Lead Media Buying at Celestial Group
+<p>Celestial Group is looking for a Team Lead Media Buying to lead a team of Facebook media buyers in the iGaming sector. Join us to leverage large budgets and drive significant results.</p>
 
-**Company:** Celestial Group  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Celestial Group is looking for a Team Lead Media Buying to lead a team of Facebook media buyers in the iGaming sector. Join us to leverage large budgets and drive significant results.
-
-**Skills:** `Facebook media buying` · `iGaming` · `Tier 3 GEO` · `LATAM` · `PWA` · `apps` · `agency` · `tracking`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/team-lead-media-buying-at-celestial-group-7317)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Facebook media buying</span><span class="s">iGaming</span><span class="s">Tier 3 GEO</span><span class="s">LATAM</span><span class="s">PWA</span><span class="s">apps</span><span class="s">agency</span><span class="s">tracking</span></div>

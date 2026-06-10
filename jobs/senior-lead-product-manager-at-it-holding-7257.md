@@ -4,27 +4,11 @@ company: "IT Holding"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-01T08:00:26.940035+00:00"
+date: "Mon Jun 01 2026 08:00:26 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-lead-product-manager-at-it-holding-7257/"
 description: "Senior/Lead Product Manager at IT Holding. Seeking a Senior/Lead Product Manager to drive key directions and influence product strategy in a Web3…"
 apply_url: "https://web3vacancy.com/job/senior-lead-product-manager-at-it-holding-7257"
 layout: job
 ---
 
-# Senior/Lead Product Manager at IT Holding
-
-**Company:** IT Holding  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Seeking a Senior/Lead Product Manager to drive key directions and influence product strategy in a Web3 ecosystem. Join a strong team and tackle large-scale challenges.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-lead-product-manager-at-it-holding-7257)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Seeking a Senior/Lead Product Manager to drive key directions and influence product strategy in a Web3 ecosystem. Join a strong team and tackle large-scale challenges.</p>

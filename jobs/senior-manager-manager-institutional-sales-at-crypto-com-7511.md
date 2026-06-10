@@ -4,27 +4,11 @@ company: "Crypto.com"
 location: "Remote"
 salary: "$100,000–$150,000"
 employment_type: "full-time"
-date: "2026-06-03T13:05:11.424358+00:00"
+date: "Wed Jun 03 2026 13:05:11 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-manager-manager-institutional-sales-at-crypto-com-7511/"
 description: "Senior Manager / Manager, Institutional Sales at Crypto.com. Join Crypto.com as a Senior Manager/Manager in Institutional Sales, driving growth across…"
 apply_url: "https://web3vacancy.com/job/senior-manager-manager-institutional-sales-at-crypto-com-7511"
 layout: job
 ---
 
-# Senior Manager / Manager, Institutional Sales at Crypto.com
-
-**Company:** Crypto.com  
-**Location:** Remote  
-**Salary:** $100,000–$150,000  
-**Type:** full-time
-
-Join Crypto.com as a Senior Manager/Manager in Institutional Sales, driving growth across APAC and EMEA. Leverage your expertise in digital assets to onboard high-value clients and customize innovative crypto products.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-manager-manager-institutional-sales-at-crypto-com-7511)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Crypto.com as a Senior Manager/Manager in Institutional Sales, driving growth across APAC and EMEA. Leverage your expertise in digital assets to onboard high-value clients and customize innovative crypto products.</p>

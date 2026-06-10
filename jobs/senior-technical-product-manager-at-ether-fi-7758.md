@@ -4,27 +4,11 @@ company: "ether.fi"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-06T01:50:27.775836+00:00"
+date: "Sat Jun 06 2026 01:50:27 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/senior-technical-product-manager-at-ether-fi-7758/"
 description: "Senior Technical Product Manager at ether.fi. Join ether.fi as a Senior Technical Product Manager to build innovative crypto financial products.…"
 apply_url: "https://web3vacancy.com/job/senior-technical-product-manager-at-ether-fi-7758"
 layout: job
 ---
 
-# Senior Technical Product Manager at ether.fi
-
-**Company:** ether.fi  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join ether.fi as a Senior Technical Product Manager to build innovative crypto financial products. Collaborate with engineering and design teams to launch impactful solutions in a fast-paced environment.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/senior-technical-product-manager-at-ether-fi-7758)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join ether.fi as a Senior Technical Product Manager to build innovative crypto financial products. Collaborate with engineering and design teams to launch impactful solutions in a fast-paced environment.</p>

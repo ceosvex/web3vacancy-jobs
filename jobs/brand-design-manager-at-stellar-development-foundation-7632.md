@@ -4,27 +4,13 @@ company: "Stellar Development Foundation"
 location: "Hybrid"
 salary: "$145,000–$215,000"
 employment_type: "full-time"
-date: "2026-06-04T22:21:46.044331+00:00"
+date: "Thu Jun 04 2026 22:21:46 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/brand-design-manager-at-stellar-development-foundation-7632/"
 description: "Brand Design Manager at Stellar Development Foundation. Join Stellar Development Foundation as a Brand Design Manager to lead creative vision and…"
 apply_url: "https://web3vacancy.com/job/brand-design-manager-at-stellar-development-foundation-7632"
 layout: job
 ---
 
-# Brand Design Manager at Stellar Development Foundation
+<p>Join Stellar Development Foundation as a Brand Design Manager to lead creative vision and execution across digital, campaigns, and events, ensuring a unified brand identity in the blockchain space.</p>
 
-**Company:** Stellar Development Foundation  
-**Location:** Hybrid  
-**Salary:** $145,000–$215,000  
-**Type:** full-time
-
-Join Stellar Development Foundation as a Brand Design Manager to lead creative vision and execution across digital, campaigns, and events, ensuring a unified brand identity in the blockchain space.
-
-**Skills:** `Creative Direction` · `Illustrator` · `Photoshop` · `Brand Guidelines` · `Design` · `Visual Identity` · `InDesign` · `Leadership` · `Digital Design` · `Experiential Design` · `Motion Graphics` · `Figma`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/brand-design-manager-at-stellar-development-foundation-7632)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Creative Direction</span><span class="s">Illustrator</span><span class="s">Photoshop</span><span class="s">Brand Guidelines</span><span class="s">Design</span><span class="s">Visual Identity</span><span class="s">InDesign</span><span class="s">Leadership</span><span class="s">Digital Design</span><span class="s">Experiential Design</span><span class="s">Motion Graphics</span><span class="s">Figma</span></div>

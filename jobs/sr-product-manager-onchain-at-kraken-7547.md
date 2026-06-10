@@ -4,27 +4,11 @@ company: "Kraken"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-03T19:09:45.688955+00:00"
+date: "Wed Jun 03 2026 19:09:45 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/sr-product-manager-onchain-at-kraken-7547/"
 description: "Sr Product Manager, Onchain at Kraken. Join Kraken as a Sr Product Manager, Onchain to define and execute product strategies for innovative crypto…"
 apply_url: "https://web3vacancy.com/job/sr-product-manager-onchain-at-kraken-7547"
 layout: job
 ---
 
-# Sr Product Manager, Onchain at Kraken
-
-**Company:** Kraken  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join Kraken as a Sr Product Manager, Onchain to define and execute product strategies for innovative crypto financial products. Work in a remote environment with a mission-focused team dedicated to accelerating global crypto adoption.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/sr-product-manager-onchain-at-kraken-7547)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Kraken as a Sr Product Manager, Onchain to define and execute product strategies for innovative crypto financial products. Work in a remote environment with a mission-focused team dedicated to accelerating global crypto adoption.</p>

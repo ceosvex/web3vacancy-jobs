@@ -4,27 +4,13 @@ company: "Chainalysis"
 location: "Remote"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-05T19:46:34.905947+00:00"
+date: "Fri Jun 05 2026 19:46:34 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/staff-software-engineer-graphs-at-chainalysis-7752/"
 description: "Staff Software Engineer, Graphs at Chainalysis. Join Chainalysis as a Staff Software Engineer, leading the development of cloud-native services and…"
 apply_url: "https://web3vacancy.com/job/staff-software-engineer-graphs-at-chainalysis-7752"
 layout: job
 ---
 
-# Staff Software Engineer, Graphs at Chainalysis
+<p>Join Chainalysis as a Staff Software Engineer, leading the development of cloud-native services and enhancing customer experiences in the cryptocurrency space.</p>
 
-**Company:** Chainalysis  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** full-time
-
-Join Chainalysis as a Staff Software Engineer, leading the development of cloud-native services and enhancing customer experiences in the cryptocurrency space.
-
-**Skills:** `Java` · `Spring Boot` · `Typescript` · `React` · `Angular` · `Kafka` · `K8S` · `Terraform` · `PostgreSQL`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/staff-software-engineer-graphs-at-chainalysis-7752)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Java</span><span class="s">Spring Boot</span><span class="s">Typescript</span><span class="s">React</span><span class="s">Angular</span><span class="s">Kafka</span><span class="s">K8S</span><span class="s">Terraform</span><span class="s">PostgreSQL</span></div>

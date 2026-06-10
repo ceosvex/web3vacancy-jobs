@@ -4,27 +4,13 @@ company: "Coinhako"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-09T14:42:53.780519+00:00"
+date: "Tue Jun 09 2026 14:42:53 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/head-of-engineering-at-coinhako-8036/"
 description: "Head of Engineering at Coinhako. Coinhako is seeking a Head of Engineering to lead product engineering strategy and execution, manage a high-performing…"
 apply_url: "https://web3vacancy.com/job/head-of-engineering-at-coinhako-8036"
 layout: job
 ---
 
-# Head of Engineering at Coinhako
+<p>Coinhako is seeking a Head of Engineering to lead product engineering strategy and execution, manage a high-performing team, and ensure the delivery of secure and user-friendly crypto solutions.</p>
 
-**Company:** Coinhako  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Coinhako is seeking a Head of Engineering to lead product engineering strategy and execution, manage a high-performing team, and ensure the delivery of secure and user-friendly crypto solutions.
-
-**Skills:** `software architecture` · `microservices` · `APIs` · `distributed systems` · `Ruby` · `Python` · `Go` · `Java` · `C++` · `AWS` · `GCP` · `Azure`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/head-of-engineering-at-coinhako-8036)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">software architecture</span><span class="s">microservices</span><span class="s">APIs</span><span class="s">distributed systems</span><span class="s">Ruby</span><span class="s">Python</span><span class="s">Go</span><span class="s">Java</span><span class="s">C++</span><span class="s">AWS</span><span class="s">GCP</span><span class="s">Azure</span></div>

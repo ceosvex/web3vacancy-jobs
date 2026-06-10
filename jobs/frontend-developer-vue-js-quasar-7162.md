@@ -4,27 +4,13 @@ company: "Stealth Project"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-05-30T07:01:59.347489+00:00"
+date: "Sat May 30 2026 07:01:59 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/frontend-developer-vue-js-quasar-7162/"
 description: "Frontend Developer (Vue.js / Quasar) at Stealth Project. Looking for an experienced Frontend Developer to support high-load web applications using Vue.js…"
 apply_url: "https://web3vacancy.com/job/frontend-developer-vue-js-quasar-7162"
 layout: job
 ---
 
-# Frontend Developer (Vue.js / Quasar) at Stealth Project
+<p>Looking for an experienced Frontend Developer to support high-load web applications using Vue.js and Quasar Framework.</p>
 
-**Company:** Stealth Project  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Looking for an experienced Frontend Developer to support high-load web applications using Vue.js and Quasar Framework.
-
-**Skills:** `JavaScript` · `TypeScript` · `HTML` · `CSS` · `Vue 2` · `Vue 3` · `Quasar Framework` · `Vuex` · `Pinia` · `Axios` · `Git` · `CI/CD`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/frontend-developer-vue-js-quasar-7162)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">JavaScript</span><span class="s">TypeScript</span><span class="s">HTML</span><span class="s">CSS</span><span class="s">Vue 2</span><span class="s">Vue 3</span><span class="s">Quasar Framework</span><span class="s">Vuex</span><span class="s">Pinia</span><span class="s">Axios</span><span class="s">Git</span><span class="s">CI/CD</span></div>

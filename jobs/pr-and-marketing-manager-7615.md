@@ -4,27 +4,11 @@ company: "Stealth Project"
 location: "Remote"
 salary: "Competitive"
 employment_type: "remote"
-date: "2026-06-04T13:30:24.966765+00:00"
+date: "Thu Jun 04 2026 13:30:24 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/pr-and-marketing-manager-7615/"
 description: "PR & Marketing Manager at Stealth Project. Experienced PR & Marketing Manager with 7+ years in Web3, specializing in community management and marketing…"
 apply_url: "https://web3vacancy.com/job/pr-and-marketing-manager-7615"
 layout: job
 ---
 
-# PR & Marketing Manager at Stealth Project
-
-**Company:** Stealth Project  
-**Location:** Remote  
-**Salary:** Competitive  
-**Type:** remote
-
-Experienced PR & Marketing Manager with 7+ years in Web3, specializing in community management and marketing for crypto and blockchain projects. Proven track record in building communities and executing successful marketing campaigns.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/pr-and-marketing-manager-7615)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Experienced PR &amp; Marketing Manager with 7+ years in Web3, specializing in community management and marketing for crypto and blockchain projects. Proven track record in building communities and executing successful marketing campaigns.</p>

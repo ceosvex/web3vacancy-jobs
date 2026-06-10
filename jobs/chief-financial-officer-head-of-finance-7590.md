@@ -4,27 +4,11 @@ company: "Stealth Project"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-04T11:00:21.353501+00:00"
+date: "Thu Jun 04 2026 11:00:21 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/chief-financial-officer-head-of-finance-7590/"
 description: "Chief Financial Officer / Head of Finance at Stealth Project. We are looking for a senior finance leader to build and scale the financial function of a…"
 apply_url: "https://web3vacancy.com/job/chief-financial-officer-head-of-finance-7590"
 layout: job
 ---
 
-# Chief Financial Officer / Head of Finance at Stealth Project
-
-**Company:** Stealth Project  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-We are looking for a senior finance leader to build and scale the financial function of a crypto company. The role involves ownership of financial strategy, treasury function, and supporting international business growth.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/chief-financial-officer-head-of-finance-7590)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>We are looking for a senior finance leader to build and scale the financial function of a crypto company. The role involves ownership of financial strategy, treasury function, and supporting international business growth.</p>

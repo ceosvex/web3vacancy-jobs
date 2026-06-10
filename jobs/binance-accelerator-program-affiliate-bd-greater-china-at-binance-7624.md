@@ -4,27 +4,11 @@ company: "Binance"
 location: "Remote"
 salary: "$142,000–$238,000"
 employment_type: "internship"
-date: "2026-06-04T22:18:17.886896+00:00"
+date: "Thu Jun 04 2026 22:18:17 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624/"
 description: "Binance Accelerator Program - Affiliate BD (Greater China) at Binance. Join Binance's Accelerator Program as an Affiliate Business Development intern,…"
 apply_url: "https://web3vacancy.com/job/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624"
 layout: job
 ---
 
-# Binance Accelerator Program - Affiliate BD (Greater China) at Binance
-
-**Company:** Binance  
-**Location:** Remote  
-**Salary:** $142,000–$238,000  
-**Type:** internship
-
-Join Binance's Accelerator Program as an Affiliate Business Development intern, where you'll engage with KOLs, optimize marketing strategies, and develop your skills in the crypto industry.
-
-
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<p>Join Binance's Accelerator Program as an Affiliate Business Development intern, where you'll engage with KOLs, optimize marketing strategies, and develop your skills in the crypto industry.</p>

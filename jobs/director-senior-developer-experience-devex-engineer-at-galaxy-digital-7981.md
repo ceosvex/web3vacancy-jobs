@@ -4,27 +4,13 @@ company: "Galaxy Digital"
 location: "Office"
 salary: "Competitive"
 employment_type: "full-time"
-date: "2026-06-09T08:37:43.352060+00:00"
+date: "Tue Jun 09 2026 08:37:43 GMT+0000 (Coordinated Universal Time)"
 permalink: "/jobs/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981/"
 description: "Director, Senior Developer Experience (DevEx) Engineer at Galaxy Digital. Galaxy Digital is seeking a Senior Developer Experience Engineer to enhance…"
 apply_url: "https://web3vacancy.com/job/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981"
 layout: job
 ---
 
-# Director, Senior Developer Experience (DevEx) Engineer at Galaxy Digital
+<p>Galaxy Digital is seeking a Senior Developer Experience Engineer to enhance engineering workflows and productivity. The role involves architecting tools and processes to improve developer satisfaction and efficiency in a dynamic environment.</p>
 
-**Company:** Galaxy Digital  
-**Location:** Office  
-**Salary:** Competitive  
-**Type:** full-time
-
-Galaxy Digital is seeking a Senior Developer Experience Engineer to enhance engineering workflows and productivity. The role involves architecting tools and processes to improve developer satisfaction and efficiency in a dynamic environment.
-
-**Skills:** `Python` · `Bash` · `Go` · `AWS` · `Terraform` · `Ansible` · `Jenkins` · `GitHub` · `Flux CD` · `Harness` · `JFrog Artifactory` · `Docker`
-
-### Apply
-
-**[→ View full details & apply on web3vacancy.com](https://web3vacancy.com/job/director-senior-developer-experience-devex-engineer-at-galaxy-digital-7981)**
-
-This role is listed on [web3vacancy.com](https://web3vacancy.com) — the curated job board for web3, crypto & blockchain careers.
-
+<div class="skills"><span class="s">Python</span><span class="s">Bash</span><span class="s">Go</span><span class="s">AWS</span><span class="s">Terraform</span><span class="s">Ansible</span><span class="s">Jenkins</span><span class="s">GitHub</span><span class="s">Flux CD</span><span class="s">Harness</span><span class="s">JFrog Artifactory</span><span class="s">Docker</span></div>
