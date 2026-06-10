@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ceosvex.github.io/web3vacancy-jobs/sitemap.xml
