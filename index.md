@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>271 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>267 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (35)</h2>
 <ul class="jobs">
@@ -46,7 +46,7 @@ permalink: /
 <li><a href="/jobs/sr-product-manager-onchain-at-kraken-7547/"><span>Sr Product Manager, Onchain <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 </ul>
-<h2>Infrastructure (62)</h2>
+<h2>Infrastructure (63)</h2>
 <ul class="jobs">
 <li><a href="/jobs/ai-creative-copywriter-at-gomining-7092/"><span>AI Creative - Copywriter <span class="co">GoMining</span></span><span class="pay">$57,500–$97,750</span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -54,6 +54,7 @@ permalink: /
 <li><a href="/jobs/assurance-senior-blockchain-us-clients-at-bpmcpa-8047/"><span>Assurance Senior (Blockchain - US Clients) <span class="co">Bpmcpa</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/backend-engineer-integrations-and-apis-at-stellar-development-foundation-7428/"><span>Backend Engineer, Integrations &amp; APIs <span class="co">Stellar Development Foundation</span></span><span class="pay">$140,000–$210,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-affiliate-bd-greater-china-at-binance-7624/"><span>Binance Accelerator Program - Affiliate BD (Greater China) <span class="co">Binance</span></span><span class="pay">$142,000–$238,000</span></a></li>
+<li><a href="/jobs/binance-accelerator-program-fullstack-developer-internal-applications-at-binance-8166/"><span>Binance Accelerator Program - Fullstack Developer (Internal Applications) <span class="co">Binance</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/"><span>Blockchain Developer (Solidity + Web3 + MERN Stack) <span class="co">AccuraSoft</span></span></a></li>
 <li><a href="/jobs/blockchain-investigator-at-anchain-ai-7161/"><span>Blockchain Investigator <span class="co">AnChain.AI</span></span></a></li>
 <li><a href="/jobs/business-developer-at-mirai-7867/"><span>Business Developer <span class="co">MIRAI</span></span></a></li>
@@ -69,7 +70,6 @@ permalink: /
 <li><a href="/jobs/events-and-community-manager-mexico-at-binance-7205/"><span>Events &amp; Community Manager – Mexico <span class="co">Binance</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7645/"><span>Events &amp; Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7630/"><span>Events &amp; Marketing Manager <span class="co">Moonpay</span></span><span class="pay">$90,000–$150,000</span></a></li>
-<li><a href="/jobs/field-application-engineer-italy-iberia-at-nethermind-7051/"><span>Field Application Engineer - Italy / Iberia <span class="co">Nethermind</span></span></a></li>
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
 <li><a href="/jobs/influencer-outreach-and-growth-manager-at-pgon-7810/"><span>Influencer Outreach &amp; Growth Manager <span class="co">PGON</span></span></a></li>
@@ -79,8 +79,8 @@ permalink: /
 <li><a href="/jobs/media-buyer-google-ads-at-demandgen-7402/"><span>Media Buyer Google Ads <span class="co">DemandGen</span></span></a></li>
 <li><a href="/jobs/member-of-technical-staff-transparency-backend-engineer-at-anchorage-7532/"><span>Member of Technical Staff, Transparency (Backend Engineer) <span class="co">Anchorage</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/performance-and-growth-marketing-manager-at-interchain-foundation-7641/"><span>Performance and Growth Marketing Manager <span class="co">Interchain Foundation</span></span></a></li>
+<li><a href="/jobs/principal-product-manager-discovery-and-onboarding-exchange-at-crypto-8176/"><span>Principal Product Manager - Discovery &amp; Onboarding(Exchange) <span class="co">Crypto</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/product-growth-hacker-exchange-at-crypto-com-7858/"><span>Product Growth Hacker (Exchange) <span class="co">Crypto.com</span></span></a></li>
-<li><a href="/jobs/product-security-engineer-hashgraph-at-hashgraph-7044/"><span>Product Security Engineer - Hashgraph <span class="co">Hashgraph</span></span></a></li>
 <li><a href="/jobs/quality-assurance-engineer-at-brave-8079/"><span>Quality Assurance Engineer <span class="co">Brave</span></span><span class="pay">$90,000–$130,000</span></a></li>
 <li><a href="/jobs/quant-researcher-at-crypto-com-7749/"><span>Quant Researcher <span class="co">Crypto.com</span></span><span class="pay">$100,000–$230,000</span></a></li>
 <li><a href="/jobs/revenue-operations-lead-at-alchemy-7056/"><span>Revenue Operations Lead <span class="co">Alchemy</span></span></a></li>
@@ -107,6 +107,7 @@ permalink: /
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7836/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7936/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
+<li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 <li><a href="/jobs/web3-community-specialist-cn-at-mantle-7137/"><span>Web3 Community Specialist, CN 华语社区运营专员 <span class="co">Mantle</span></span></a></li>
@@ -115,8 +116,8 @@ permalink: /
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
-<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7609/"><span>AI Operations Specialist <span class="co">CoinMarketCap</span></span></a></li>
+<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
 <li><a href="/jobs/ai-platform-engineer-at-0g-labs-7157/"><span>AI Platform Engineer <span class="co">0G Labs</span></span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7554/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span></a></li>
@@ -150,15 +151,13 @@ permalink: /
 <li><a href="/jobs/sales-lead-generation-manager-7692/"><span>Sales / Lead Generation Manager <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/jobs/sales-development-representative-growth-at-immutable-7138/"><span>Sales Development Representative (Growth) <span class="co">Immutable</span></span></a></li>
 </ul>
-<h2>Payments (111)</h2>
+<h2>Payments (105)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-business-development-manager-cis-at-okx-7741/"><span>Affiliate Business Development Manager, CIS <span class="co">Okx</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145/"><span>Associate Institutional Sales Representative - Global Markets <span class="co">Anchorage Digital</span></span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/business-development-interns-junior-bd-at-bitbase-com-7041/"><span>Business Development Interns /Junior BD <span class="co">Bitbase.com</span></span><span class="pay">$1,000–$2,000</span></a></li>
-<li><a href="/jobs/business-development-lead-japan-at-world-7054/"><span>Business Development Lead, Japan <span class="co">World</span></span></a></li>
 <li><a href="/jobs/chief-financial-officer-head-of-finance-7590/"><span>Chief Financial Officer / Head of Finance <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/jobs/chief-financial-officer-head-of-finance-at-pgon-7589/"><span>Chief Financial Officer / Head of Finance <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/client-executive-polymarket-at-polymarket-7743/"><span>Client Executive - Polymarket <span class="co">Polymarket</span></span></a></li>
@@ -180,23 +179,21 @@ permalink: /
 <li><a href="/jobs/finance-accountant-at-improbable-7296/"><span>Finance Accountant <span class="co">Improbable</span></span></a></li>
 <li><a href="/jobs/finance-manager-at-yzi-labs-7344/"><span>Finance Manager <span class="co">YZi Labs</span></span><span class="pay">$120,000–$240,000</span></a></li>
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
-<li><a href="/jobs/forward-deployed-engineer-at-taxbit-7046/"><span>Forward Deployed Engineer <span class="co">TaxBit</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-blockstream-7140/"><span>General Counsel <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>
-<li><a href="/jobs/head-of-government-relations-at-securitize-7052/"><span>Head of Government Relations <span class="co">Securitize</span></span></a></li>
 <li><a href="/jobs/head-of-growth-at-emcd-7319/"><span>Head of Growth <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/head-of-sales-at-icon-finance-7320/"><span>Head of Sales <span class="co">ICON Finance</span></span><span class="pay">$2,000–$3,000</span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
-<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
+<li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"><span>International Accountant / Finance Operations Specialist <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
-<li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7211/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7196/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$250,000–$350,000</span></a></li>
+<li><a href="/jobs/legal-counsel-prediction-and-capital-markets-at-crypto-com-7211/"><span>Legal Counsel - Prediction and Capital Markets <span class="co">Crypto.com</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/legal-operations-associate-at-sei-labs-7947/"><span>Legal Operations Associate <span class="co">Sei Labs</span></span></a></li>
 <li><a href="/jobs/manager-banking-alliance-at-unlimit-7633/"><span>Manager- Banking Alliance <span class="co">Unlimit</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
@@ -217,7 +214,6 @@ permalink: /
 <li><a href="/jobs/product-manager-payments-at-polymarket-7745/"><span>Product Manager, Payments <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/public-relations-manager-at-coinmarketcap-7374/"><span>Public Relations Manager <span class="co">CoinMarketCap</span></span><span class="pay">$86,250–$138,000</span></a></li>
 <li><a href="/jobs/quant-trader-sports-and-prediction-markets-at-crypto-com-7134/"><span>Quant Trader (Sports &amp; Prediction Markets) <span class="co">Crypto.com</span></span></a></li>
-<li><a href="/jobs/regional-business-development-and-operations-lead-at-nethermind-7050/"><span>Regional Business Development &amp; Operations Lead <span class="co">Nethermind</span></span></a></li>
 <li><a href="/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"><span>Regional Institutional Manager, Latin America <span class="co">Anchorage</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/regional-manager-customer-success-at-elliptic-7606/"><span>Regional Manager, Customer Success <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/sales-director-pensions-endowments-foundations-and-family-offices-at-bitgo-7733/"><span>Sales Director- Pensions, Endowments, Foundations, and Family Offices <span class="co">BitGo</span></span><span class="pay">$225,000–$275,000</span></a></li>
@@ -253,7 +249,6 @@ permalink: /
 <li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
-<li><a href="/jobs/strategic-account-manager-at-blockdaemon-7045/"><span>Strategic Account Manager <span class="co">Blockdaemon</span></span><span class="pay">$130,000–$150,000</span></a></li>
 <li><a href="/jobs/tech-lead-backend-fraud-at-bvnk-7434/"><span>Tech Lead (Backend): Fraud <span class="co">Bvnk</span></span></a></li>
 <li><a href="/jobs/technical-account-manager-at-polymarket-8152/"><span>Technical Account Manager <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/technical-customer-success-manager-at-merkle-science-7439/"><span>Technical Customer Success Manager <span class="co">Merkle Science</span></span><span class="pay">$20,000–$40,000</span></a></li>
@@ -281,7 +276,7 @@ permalink: /
 <li><a href="/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/"><span>Senior Infrastructure Security Engineer <span class="co">Matter Labs</span></span></a></li>
 <li><a href="/jobs/senior-security-engineer-at-near-foundation-7408/"><span>Senior Security Engineer <span class="co">NEAR Foundation</span></span><span class="pay">$130,000–$180,000</span></a></li>
 </ul>
-<h2>Design (11)</h2>
+<h2>Design (10)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-designer-gamification-at-btse-7208/"><span>(Sr.) Product Designer - Gamification <span class="co">Btse</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/brand-design-manager-at-stellar-development-foundation-7632/"><span>Brand Design Manager <span class="co">Stellar Development Foundation</span></span><span class="pay">$145,000–$215,000</span></a></li>
@@ -289,20 +284,21 @@ permalink: /
 <li><a href="/jobs/head-of-product-creative-at-coinbase-7928/"><span>Head of Product Creative <span class="co">Coinbase</span></span><span class="pay">$180,000–$300,000</span></a></li>
 <li><a href="/jobs/lead-product-designer-at-circle-7330/"><span>Lead Product Designer <span class="co">Circle</span></span><span class="pay">$172,500–$225,000</span></a></li>
 <li><a href="/jobs/lead-product-designer-digital-assets-at-circle-7333/"><span>Lead Product Designer, Digital Assets <span class="co">Circle</span></span><span class="pay">$172,500–$225,000</span></a></li>
-<li><a href="/jobs/product-designer-demo-storyteller-at-nethermind-7049/"><span>Product Designer / Demo Storyteller <span class="co">Nethermind</span></span></a></li>
 <li><a href="/jobs/senior-motion-designer-at-fireblocks-7739/"><span>Senior Motion Designer <span class="co">Fireblocks</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/senior-product-designer-consumer-blockchain-at-blockchain-8062/"><span>Senior Product Designer, Consumer - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/staff-product-designer-advanced-trade-at-coinbase-7930/"><span>Staff Product Designer - Advanced Trade <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/ux-ui-designer-crypto-and-igaming-8124/"><span>UX/UI Designer (Crypto &amp; iGaming) <span class="co">Stealth Project</span></span><span class="pay">From $1,750</span></a></li>
 </ul>
-<h2>Other (8)</h2>
+<h2>Other (10)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-7727/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span><span class="pay">$98,000–$162,000</span></a></li>
+<li><a href="/jobs/backend-java-engineer-at-binance-8165/"><span>Backend Java Engineer <span class="co">Binance</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/copywriter-at-pgon-8085/"><span>Copywriter <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/copywriter-at-international-payment-solutions-aggregator-8084/"><span>Copywriter <span class="co">International Payment Solutions Aggregator</span></span></a></li>
 <li><a href="/jobs/crypto-futures-trader-at-pgon-7670/"><span>Crypto Futures Trader <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/media-buyer-7721/"><span>Media Buyer <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/jobs/media-buyer-facebook-taboola-7833/"><span>Media Buyer Facebook / Taboola <span class="co">Stealth Project</span></span></a></li>
+<li><a href="/jobs/senior-software-engineer-eaa-at-coinbase-8174/"><span>Senior Software Engineer (EAA) <span class="co">Coinbase</span></span><span class="pay">$105,000–$175,000</span></a></li>
 <li><a href="/jobs/untitled-7247/"><span>Untitled <span class="co">Stealth Project</span></span><span class="pay">$3,500–$6,000</span></a></li>
 <li><a href="/jobs/user-growth-and-lifecycle-marketing-manager-at-binance-7926/"><span>User Growth &amp; Lifecycle Marketing Manager <span class="co">Binance</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
