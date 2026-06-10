@@ -101,8 +101,8 @@ permalink: /
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-7232/"><span>Frontend Developer <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/"><span>Frontend Developer (React / Next.js) <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/"><span>Frontend Developer (Vue.js / Quasar) <span class="co">Stealth Project</span></span></a></li>
-<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
+<li><a href="/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/"><span>Fullstack PHP + Vue.js Developer <span class="co">Magnit</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/growth-marketing-manager-7820/"><span>Growth Marketing Manager <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/"><span>Head of Promoters <span class="co">Hattori</span></span><span class="pay">$400–$2,000</span></a></li>
@@ -367,8 +367,8 @@ permalink: /
 <li><a href="/web3vacancy-jobs/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/operation-associate-corporate-development-at-crypto-com-7388/"><span>Operation Associate, Corporate Development <span class="co">Crypto.com</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/operations-and-compliance-intern-at-binance-7904/"><span>Operations &amp; Compliance Intern <span class="co">Binance</span></span></a></li>
-<li><a href="/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-7953/"><span>Operations Manager, Bermuda <span class="co">Coinbase</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-8053/"><span>Operations Manager, Bermuda <span class="co">Coinbase</span></span><span class="pay">$75,000–$125,000</span></a></li>
+<li><a href="/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-7953/"><span>Operations Manager, Bermuda <span class="co">Coinbase</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/partner-development-manager-at-bvnk-7753/"><span>Partner Development Manager <span class="co">Bvnk</span></span><span class="pay">$130,000–$165,000</span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/payment-manager-banking-and-crypto-operations-7290/"><span>Payment Manager (Banking &amp; Crypto Operations) <span class="co">Stealth Project</span></span></a></li>
 <li><a href="/web3vacancy-jobs/jobs/payment-operations-manager-7498/"><span>Payment Operations Manager <span class="co">Stealth Project</span></span><span class="pay">Up to $1,000</span></a></li>

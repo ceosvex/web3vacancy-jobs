@@ -97,8 +97,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 - [Frontend Developer at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-7232/)
 - [Frontend Developer (React / Next.js) at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-react-next-js-7186/)
 - [Frontend Developer (Vue.js / Quasar) at Stealth Project](/web3vacancy-jobs/jobs/frontend-developer-vue-js-quasar-7162/)
-- [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) — $82,000–$138,000
 - [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) — $63,000–$83,000
+- [Full Stack Engineer, Blockchain at Fireblocks](/web3vacancy-jobs/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) — $82,000–$138,000
 - [Fullstack PHP + Vue.js Developer at Magnit](/web3vacancy-jobs/jobs/fullstack-php-vue-js-developer-at-magnit-7164/)
 - [Growth Marketing Manager at Stealth Project](/web3vacancy-jobs/jobs/growth-marketing-manager-7820/)
 - [Head of Promoters at Hattori](/web3vacancy-jobs/jobs/head-of-promoters-at-hattori-7896/) — $400–$2,000
@@ -363,8 +363,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 - [On-Chain Risk Strategy Manager at Coins.ph](/web3vacancy-jobs/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/)
 - [Operation Associate, Corporate Development at Crypto.com](/web3vacancy-jobs/jobs/operation-associate-corporate-development-at-crypto-com-7388/)
 - [Operations & Compliance Intern at Binance](/web3vacancy-jobs/jobs/operations-and-compliance-intern-at-binance-7904/)
-- [Operations Manager, Bermuda at Coinbase](/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-7953/)
 - [Operations Manager, Bermuda at Coinbase](/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-8053/) — $75,000–$125,000
+- [Operations Manager, Bermuda at Coinbase](/web3vacancy-jobs/jobs/operations-manager-bermuda-at-coinbase-7953/)
 - [Partner Development Manager at Bvnk](/web3vacancy-jobs/jobs/partner-development-manager-at-bvnk-7753/) — $130,000–$165,000
 - [Payment Manager (Banking & Crypto Operations) at Stealth Project](/web3vacancy-jobs/jobs/payment-manager-banking-and-crypto-operations-7290/)
 - [Payment Operations Manager at Stealth Project](/web3vacancy-jobs/jobs/payment-operations-manager-7498/) — Up to $1,000
