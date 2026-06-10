@@ -72,8 +72,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Events & Community Manager – Mexico](https://web3vacancy.github.io/jobs/events-and-community-manager-mexico-at-binance-7205/) | Binance | $90,000–$150,000 |
 | [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7645/) | MoonPay | $100,000–$140,000 |
 | [Events & Marketing Manager](https://web3vacancy.github.io/jobs/events-and-marketing-manager-at-moonpay-7630/) | Moonpay | $90,000–$150,000 |
-| [Full Stack Engineer, Blockchain](https://web3vacancy.github.io/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) | Fireblocks | $82,000–$138,000 |
 | [Full Stack Engineer, Blockchain](https://web3vacancy.github.io/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/) | Fireblocks | $63,000–$83,000 |
+| [Full Stack Engineer, Blockchain](https://web3vacancy.github.io/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/) | Fireblocks | $82,000–$138,000 |
 | [Influencer Outreach & Growth Manager](https://web3vacancy.github.io/jobs/influencer-outreach-and-growth-manager-at-pgon-7810/) | PGON | — |
 | [IT Systems Engineer](https://web3vacancy.github.io/jobs/it-systems-engineer-at-tempo-7644/) | Tempo | — |
 | [Marketing maestro](https://web3vacancy.github.io/jobs/marketing-maestro-at-cryptohero-ca-7343/) | cryptohero.ca | — |
@@ -196,8 +196,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Head of Sales](https://web3vacancy.github.io/jobs/head-of-sales-at-icon-finance-7320/) | ICON Finance | $2,000–$3,000 |
 | [Head of Technical Customer Experience](https://web3vacancy.github.io/jobs/head-of-technical-customer-experience-at-polymarket-8068/) | Polymarket | — |
 | [Institutional Business Development Manager - Wintermute](https://web3vacancy.github.io/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/) | Wintermute | — |
-| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-polymarket-7746/) | Polymarket | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
+| [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-polymarket-7746/) | Polymarket | — |
 | [Institutional Sales Associate - Blockchain](https://web3vacancy.github.io/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/) | Blockchain | — |
 | [International Accountant / Finance Operations Specialist](https://web3vacancy.github.io/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/) | EMCD | — |
 | [Legal Counsel - Data Protection](https://web3vacancy.github.io/jobs/legal-counsel-data-protection-at-bitpanda-7293/) | Bitpanda | — |

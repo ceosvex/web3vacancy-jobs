@@ -72,8 +72,8 @@ permalink: /
 <li><a href="/jobs/events-and-community-manager-mexico-at-binance-7205/"><span>Events &amp; Community Manager – Mexico <span class="co">Binance</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7645/"><span>Events &amp; Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
 <li><a href="/jobs/events-and-marketing-manager-at-moonpay-7630/"><span>Events &amp; Marketing Manager <span class="co">Moonpay</span></span><span class="pay">$90,000–$150,000</span></a></li>
-<li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7837/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$63,000–$83,000</span></a></li>
+<li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/influencer-outreach-and-growth-manager-at-pgon-7810/"><span>Influencer Outreach &amp; Growth Manager <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/it-systems-engineer-at-tempo-7644/"><span>IT Systems Engineer <span class="co">Tempo</span></span></a></li>
 <li><a href="/jobs/marketing-maestro-at-cryptohero-ca-7343/"><span>Marketing maestro <span class="co">cryptohero.ca</span></span></a></li>
@@ -190,8 +190,8 @@ permalink: /
 <li><a href="/jobs/head-of-sales-at-icon-finance-7320/"><span>Head of Sales <span class="co">ICON Finance</span></span><span class="pay">$2,000–$3,000</span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
-<li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
+<li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/international-accountant-finance-operations-specialist-at-emcd-7311/"><span>International Accountant / Finance Operations Specialist <span class="co">EMCD</span></span></a></li>
 <li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
