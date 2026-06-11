@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-256 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+255 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 35
 
@@ -148,13 +148,12 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Lead Fullstack Developer (Node.js + React)](https://web3vacancy.github.io/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/) | Cipher Studios | — |
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 
-### Payments · 105
+### Payments · 104
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
 | [Assistant Manager, Performance Marketing](https://web3vacancy.github.io/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/) | Delta Exchange | — |
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
-| [Associate Institutional Sales Representative - Global Markets](https://web3vacancy.github.io/jobs/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145/) | Anchorage Digital | — |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |
 | [Chief Financial Officer / Head of Finance](https://web3vacancy.github.io/jobs/chief-financial-officer-head-of-finance-at-pgon-7589/) | PGON | — |
 | [Client Executive - Polymarket](https://web3vacancy.github.io/jobs/client-executive-polymarket-at-polymarket-7743/) | Polymarket | — |

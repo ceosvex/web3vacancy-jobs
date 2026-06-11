@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>256 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>255 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (35)</h2>
 <ul class="jobs">
@@ -144,11 +144,10 @@ permalink: /
 <li><a href="/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/"><span>Lead Fullstack Developer (Node.js + React) <span class="co">Cipher Studios</span></span></a></li>
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 </ul>
-<h2>Payments (105)</h2>
+<h2>Payments (104)</h2>
 <ul class="jobs">
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
-<li><a href="/jobs/associate-institutional-sales-representative-global-markets-at-anchorage-digital-7145/"><span>Associate Institutional Sales Representative - Global Markets <span class="co">Anchorage Digital</span></span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/chief-financial-officer-head-of-finance-at-pgon-7589/"><span>Chief Financial Officer / Head of Finance <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/client-executive-polymarket-at-polymarket-7743/"><span>Client Executive - Polymarket <span class="co">Polymarket</span></span></a></li>
