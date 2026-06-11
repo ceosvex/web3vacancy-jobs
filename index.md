@@ -211,8 +211,8 @@ permalink: /
 <li><a href="/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/"><span>Sales Lead/ Director, Prediction &amp; Digital Asset Markets <span class="co">Crypto.com</span></span><span class="pay">$225,000–$300,000</span></a></li>
 <li><a href="/jobs/security-architect-at-blockstream-8078/"><span>Security Architect <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/"><span>Senior Backend Engineer <span class="co">Stellar Development Foundation</span></span><span class="pay">$185,000–$275,000</span></a></li>
-<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
+<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-business-development-director-americas-at-circle-7331/"><span>Senior Business Development Director, Americas <span class="co">Circle</span></span><span class="pay">$245,000–$307,500</span></a></li>
 <li><a href="/jobs/senior-compliance-associate-at-figure-7714/"><span>Senior Compliance Associate <span class="co">Figure</span></span><span class="pay">$74,800–$112,200</span></a></li>
 <li><a href="/jobs/senior-crm-martech-manager-at-crypto-com-7901/"><span>Senior CRM MarTech Manager <span class="co">Crypto.com</span></span></a></li>
@@ -233,8 +233,8 @@ permalink: /
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-staff-product-manager-token-listing-at-okx-7638/"><span>Senior/Staff Product Manager, Token Listing <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
-<li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
+<li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-platform-fineng-at-coinbase-8312/"><span>Staff Software Engineer (Platform - FinEng) <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
