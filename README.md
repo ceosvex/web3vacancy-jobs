@@ -119,8 +119,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
 | [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
-| [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7554/) | Fireblocks | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |
+| [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7554/) | Fireblocks | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7421/) | Fireblocks | $75,000–$125,000 |
 | [Data Engineer](https://web3vacancy.github.io/jobs/data-engineer-at-elliptic-8067/) | Elliptic | — |
 | [Data Scientist (Search & Recommendation)](https://web3vacancy.github.io/jobs/data-scientist-search-and-recommendation-at-binance-7977/) | Binance | — |
