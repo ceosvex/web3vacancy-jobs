@@ -189,8 +189,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Finance Accountant](https://web3vacancy.github.io/jobs/finance-accountant-at-improbable-7296/) | Improbable | — |
 | [Finance Manager](https://web3vacancy.github.io/jobs/finance-manager-at-yzi-labs-7344/) | YZi Labs | $120,000–$240,000 |
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
-| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-blockstream-7140/) | Blockstream | — |
+| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |
 | [Head of Growth](https://web3vacancy.github.io/jobs/head-of-growth-at-emcd-7319/) | EMCD | — |
