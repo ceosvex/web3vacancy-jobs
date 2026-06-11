@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-258 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+257 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 35
 
@@ -148,7 +148,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Lead Fullstack Developer (Node.js + React)](https://web3vacancy.github.io/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/) | Cipher Studios | — |
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 
-### Payments · 107
+### Payments · 106
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -221,7 +221,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Sales Engineer](https://web3vacancy.github.io/jobs/sales-engineer-at-fireblocks-7544/) | Fireblocks | $90,000–$150,000 |
 | [Sales Engineer - Fireblocks](https://web3vacancy.github.io/jobs/sales-engineer-fireblocks-at-fireblocks-7433/) | Fireblocks | — |
 | [Sales Lead/ Director, Prediction & Digital Asset Markets](https://web3vacancy.github.io/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/) | Crypto.com | $225,000–$300,000 |
-| [Security Application Engineer](https://web3vacancy.github.io/jobs/security-application-engineer-at-bitgo-7139/) | BitGo | $190,000–$245,000 |
 | [Security Architect](https://web3vacancy.github.io/jobs/security-architect-at-blockstream-8078/) | Blockstream | — |
 | [Senior Backend Engineer](https://web3vacancy.github.io/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/) | Stellar Development Foundation | $185,000–$275,000 |
 | [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/) | Fireblocks | $135,000–$225,000 |

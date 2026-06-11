@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>258 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>257 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (35)</h2>
 <ul class="jobs">
@@ -144,7 +144,7 @@ permalink: /
 <li><a href="/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/"><span>Lead Fullstack Developer (Node.js + React) <span class="co">Cipher Studios</span></span></a></li>
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 </ul>
-<h2>Payments (107)</h2>
+<h2>Payments (106)</h2>
 <ul class="jobs">
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
@@ -215,7 +215,6 @@ permalink: /
 <li><a href="/jobs/sales-engineer-at-fireblocks-7544/"><span>Sales Engineer <span class="co">Fireblocks</span></span><span class="pay">$90,000–$150,000</span></a></li>
 <li><a href="/jobs/sales-engineer-fireblocks-at-fireblocks-7433/"><span>Sales Engineer - Fireblocks <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/"><span>Sales Lead/ Director, Prediction &amp; Digital Asset Markets <span class="co">Crypto.com</span></span><span class="pay">$225,000–$300,000</span></a></li>
-<li><a href="/jobs/security-application-engineer-at-bitgo-7139/"><span>Security Application Engineer <span class="co">BitGo</span></span><span class="pay">$190,000–$245,000</span></a></li>
 <li><a href="/jobs/security-architect-at-blockstream-8078/"><span>Security Architect <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/"><span>Senior Backend Engineer <span class="co">Stellar Development Foundation</span></span><span class="pay">$185,000–$275,000</span></a></li>
 <li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
