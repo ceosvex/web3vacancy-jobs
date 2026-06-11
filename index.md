@@ -187,8 +187,8 @@ permalink: /
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/partner-development-manager-at-bvnk-7753/"><span>Partner Development Manager <span class="co">Bvnk</span></span><span class="pay">$130,000–$165,000</span></a></li>
 <li><a href="/jobs/personal-manager-at-cifra-markets-7882/"><span>Personal Manager <span class="co">Cifra Markets</span></span></a></li>
-<li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/principal-product-manager-growth-at-circle-7329/"><span>Principal Product Manager, Growth <span class="co">Circle</span></span><span class="pay">$200,000–$260,000</span></a></li>
 <li><a href="/jobs/privacy-manager-at-bitgo-7611/"><span>Privacy Manager <span class="co">BitGo</span></span><span class="pay">$140,000–$165,000</span></a></li>
 <li><a href="/jobs/product-analyst-at-crypto-neobank-7919/"><span>Product Analyst <span class="co">Crypto Neobank</span></span><span class="pay">Up to $5,000</span></a></li>
@@ -233,8 +233,8 @@ permalink: /
 <li><a href="/jobs/senior-vip-relationship-manager-at-kraken-7514/"><span>Senior VIP Relationship Manager <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-staff-product-manager-token-listing-at-okx-7638/"><span>Senior/Staff Product Manager, Token Listing <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-polymarket-7744/"><span>Solutions Engineer <span class="co">Polymarket</span></span></a></li>
-<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
+<li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-platform-fineng-at-coinbase-8312/"><span>Staff Software Engineer (Platform - FinEng) <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
