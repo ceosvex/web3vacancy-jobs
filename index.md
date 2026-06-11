@@ -140,8 +140,8 @@ permalink: /
 </ul>
 <h2>Payments (107)</h2>
 <ul class="jobs">
-<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
+<li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
@@ -211,8 +211,8 @@ permalink: /
 <li><a href="/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/"><span>Sales Lead/ Director, Prediction &amp; Digital Asset Markets <span class="co">Crypto.com</span></span><span class="pay">$225,000–$300,000</span></a></li>
 <li><a href="/jobs/security-architect-at-blockstream-8078/"><span>Security Architect <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/"><span>Senior Backend Engineer <span class="co">Stellar Development Foundation</span></span><span class="pay">$185,000–$275,000</span></a></li>
-<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
+<li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-business-development-director-americas-at-circle-7331/"><span>Senior Business Development Director, Americas <span class="co">Circle</span></span><span class="pay">$245,000–$307,500</span></a></li>
 <li><a href="/jobs/senior-compliance-associate-at-figure-7714/"><span>Senior Compliance Associate <span class="co">Figure</span></span><span class="pay">$74,800–$112,200</span></a></li>
 <li><a href="/jobs/senior-crm-martech-manager-at-crypto-com-7901/"><span>Senior CRM MarTech Manager <span class="co">Crypto.com</span></span></a></li>

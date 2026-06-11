@@ -146,8 +146,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
 | [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8303/) | Btse | $120,000–$200,000 |
+| [(Sr.) Product Manager](https://web3vacancy.github.io/jobs/sr-product-manager-at-btse-8304/) | Btse | $120,000–$200,000 |
 | [Assistant Manager, Performance Marketing](https://web3vacancy.github.io/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/) | Delta Exchange | — |
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |
@@ -217,8 +217,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Sales Lead/ Director, Prediction & Digital Asset Markets](https://web3vacancy.github.io/jobs/sales-lead-director-prediction-and-digital-asset-markets-at-crypto-com-7636/) | Crypto.com | $225,000–$300,000 |
 | [Security Architect](https://web3vacancy.github.io/jobs/security-architect-at-blockstream-8078/) | Blockstream | — |
 | [Senior Backend Engineer](https://web3vacancy.github.io/jobs/senior-backend-engineer-at-stellar-development-foundation-7426/) | Stellar Development Foundation | $185,000–$275,000 |
-| [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/) | Fireblocks | $135,000–$225,000 |
 | [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/) | Fireblocks | $135,000–$225,000 |
+| [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7933/) | Fireblocks | $135,000–$225,000 |
 | [Senior Business Development Director, Americas](https://web3vacancy.github.io/jobs/senior-business-development-director-americas-at-circle-7331/) | Circle | $245,000–$307,500 |
 | [Senior Compliance Associate](https://web3vacancy.github.io/jobs/senior-compliance-associate-at-figure-7714/) | Figure | $74,800–$112,200 |
 | [Senior CRM MarTech Manager](https://web3vacancy.github.io/jobs/senior-crm-martech-manager-at-crypto-com-7901/) | Crypto.com | — |
