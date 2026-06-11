@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-257 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+256 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 35
 
@@ -114,8 +114,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | :-- | :-- | :-- |
 | [AI Engineer - Crypto Finance](https://web3vacancy.github.io/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/) | Crypto Finance | — |
 | [AI Enterprise BD Lead](https://web3vacancy.github.io/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/) | Douro Labs | — |
-| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7609/) | CoinMarketCap | — |
+| [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |
 | [AI Platform Engineer](https://web3vacancy.github.io/jobs/ai-platform-engineer-at-0g-labs-7157/) | 0G Labs | — |
 | [Associate Counsel, Data Centers](https://web3vacancy.github.io/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/) | Galaxy Digital | — |
 | [Data Analytics AI Engineer](https://web3vacancy.github.io/jobs/data-analytics-ai-engineer-at-fireblocks-7322/) | Fireblocks | $156,000–$204,000 |
@@ -148,7 +148,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Lead Fullstack Developer (Node.js + React)](https://web3vacancy.github.io/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/) | Cipher Studios | — |
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 
-### Payments · 106
+### Payments · 105
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -179,7 +179,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Financial Crime & Compliance Product Manager](https://web3vacancy.github.io/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/) | BVNK | $51,000–$85,000 |
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
 | [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-unto-labs-7769/) | Unto Labs | — |
-| [General Counsel](https://web3vacancy.github.io/jobs/general-counsel-at-blockstream-7140/) | Blockstream | — |
 | [Group Product Manager, Core Infra and Reliability](https://web3vacancy.github.io/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/) | Coinbase | $243,865–$286,900 |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |

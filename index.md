@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>257 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>256 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (35)</h2>
 <ul class="jobs">
@@ -112,8 +112,8 @@ permalink: /
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
-<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7609/"><span>AI Operations Specialist <span class="co">CoinMarketCap</span></span></a></li>
+<li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
 <li><a href="/jobs/ai-platform-engineer-at-0g-labs-7157/"><span>AI Platform Engineer <span class="co">0G Labs</span></span></a></li>
 <li><a href="/jobs/associate-counsel-data-centers-at-galaxy-digital-8178/"><span>Associate Counsel, Data Centers <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/data-analytics-ai-engineer-at-fireblocks-7322/"><span>Data Analytics AI Engineer <span class="co">Fireblocks</span></span><span class="pay">$156,000–$204,000</span></a></li>
@@ -144,7 +144,7 @@ permalink: /
 <li><a href="/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/"><span>Lead Fullstack Developer (Node.js + React) <span class="co">Cipher Studios</span></span></a></li>
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 </ul>
-<h2>Payments (106)</h2>
+<h2>Payments (105)</h2>
 <ul class="jobs">
 <li><a href="/jobs/assistant-manager-performance-marketing-at-delta-exchange-7907/"><span>Assistant Manager, Performance Marketing <span class="co">Delta Exchange</span></span></a></li>
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
@@ -173,7 +173,6 @@ permalink: /
 <li><a href="/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/"><span>Financial Crime &amp; Compliance Product Manager <span class="co">BVNK</span></span><span class="pay">$51,000–$85,000</span></a></li>
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
-<li><a href="/jobs/general-counsel-at-blockstream-7140/"><span>General Counsel <span class="co">Blockstream</span></span></a></li>
 <li><a href="/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/"><span>Group Product Manager, Core Infra and Reliability <span class="co">Coinbase</span></span><span class="pay">$243,865–$286,900</span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>
