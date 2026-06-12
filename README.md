@@ -4,7 +4,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 250 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 33
+### DeFi · 32
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -24,7 +24,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Growth Engineer / Integration Engineer](https://web3vacancy.github.io/jobs/growth-engineer-integration-engineer-at-injective-labs-7444/) | Injective Labs | — |
 | [Head of Ecosystem Growth](https://web3vacancy.github.io/jobs/head-of-ecosystem-growth-at-arbitrum-foundation-7455/) | Arbitrum Foundation | — |
 | [Head of Growth](https://web3vacancy.github.io/jobs/head-of-growth-at-vdex-7920/) | VDEX | — |
-| [Korea Growth Lead](https://web3vacancy.github.io/jobs/korea-growth-lead-at-synfutures-7218/) | SynFutures | — |
 | [Lead Product Manager, Tokenization](https://web3vacancy.github.io/jobs/lead-product-manager-tokenization-at-bullish-8081/) | Bullish | $245,000–$285,000 |
 | [Member of Technical Staff - Smart Contract](https://web3vacancy.github.io/jobs/member-of-technical-staff-smart-contract-at-galaxy-digital-8321/) | Galaxy Digital | $200,000–$250,000 |
 | [On-chain Quant Developer](https://web3vacancy.github.io/jobs/on-chain-quant-developer-at-bitmart-7646/) | BitMart | — |
@@ -137,12 +136,13 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-galaxy-digital-7941/) | Galaxy Digital | — |
 | [VP, Senior Product Security Engineer](https://web3vacancy.github.io/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/) | Galaxy Digital | — |
 
-### GameFi · 2
+### GameFi · 3
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
 | [Lead Fullstack Developer (Node.js + React)](https://web3vacancy.github.io/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/) | Cipher Studios | — |
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
+| [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
 ### Payments · 107
 

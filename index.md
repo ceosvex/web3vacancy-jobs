@@ -8,7 +8,7 @@ permalink: /
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
 <p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>250 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (33)</h2>
+<h2>DeFi (32)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -26,7 +26,6 @@ permalink: /
 <li><a href="/jobs/growth-engineer-integration-engineer-at-injective-labs-7444/"><span>Growth Engineer / Integration Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/head-of-ecosystem-growth-at-arbitrum-foundation-7455/"><span>Head of Ecosystem Growth <span class="co">Arbitrum Foundation</span></span></a></li>
 <li><a href="/jobs/head-of-growth-at-vdex-7920/"><span>Head of Growth <span class="co">VDEX</span></span></a></li>
-<li><a href="/jobs/korea-growth-lead-at-synfutures-7218/"><span>Korea Growth Lead <span class="co">SynFutures</span></span></a></li>
 <li><a href="/jobs/lead-product-manager-tokenization-at-bullish-8081/"><span>Lead Product Manager, Tokenization <span class="co">Bullish</span></span><span class="pay">$245,000–$285,000</span></a></li>
 <li><a href="/jobs/member-of-technical-staff-smart-contract-at-galaxy-digital-8321/"><span>Member of Technical Staff - Smart Contract <span class="co">Galaxy Digital</span></span><span class="pay">$200,000–$250,000</span></a></li>
 <li><a href="/jobs/on-chain-quant-developer-at-bitmart-7646/"><span>On-chain Quant Developer <span class="co">BitMart</span></span></a></li>
@@ -135,10 +134,11 @@ permalink: /
 <li><a href="/jobs/technical-project-manager-at-galaxy-digital-7941/"><span>Technical Project Manager <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/"><span>VP, Senior Product Security Engineer <span class="co">Galaxy Digital</span></span></a></li>
 </ul>
-<h2>GameFi (2)</h2>
+<h2>GameFi (3)</h2>
 <ul class="jobs">
 <li><a href="/jobs/lead-fullstack-developer-node-js-react-at-cipher-studios-7467/"><span>Lead Fullstack Developer (Node.js + React) <span class="co">Cipher Studios</span></span></a></li>
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
+<li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
 <h2>Payments (107)</h2>
 <ul class="jobs">
