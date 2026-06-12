@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>236 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>237 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (33)</h2>
 <ul class="jobs">
@@ -44,7 +44,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (53)</h2>
+<h2>Infrastructure (52)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/analytics-engineer-at-coinbase-8427/"><span>Analytics Engineer <span class="co">Coinbase</span></span><span class="pay">$90,000–$150,000</span></a></li>
@@ -60,7 +60,6 @@ permalink: /
 <li><a href="/jobs/devops-site-reliability-engineer-at-okx-8112/"><span>DevOps / Site Reliability Engineer <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/digital-asset-operations-at-animoca-brands-8419/"><span>Digital Asset Operations <span class="co">Animoca Brands</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/"><span>Director of Site Reliability Engineering <span class="co">Stellar Development Foundation</span></span><span class="pay">$210,000–$310,000</span></a></li>
-<li><a href="/jobs/director-lifecycle-marketing-at-okx-7342/"><span>Director, Lifecycle Marketing <span class="co">OKX</span></span><span class="pay">$200,000–$300,000</span></a></li>
 <li><a href="/jobs/engineering-manager-at-parity-technologies-7607/"><span>Engineering Manager <span class="co">Parity Technologies</span></span></a></li>
 <li><a href="/jobs/engineering-manager-blockchain-at-anchorage-digital-7457/"><span>Engineering Manager, Blockchain <span class="co">Anchorage Digital</span></span></a></li>
 <li><a href="/jobs/engineering-manager-transparency-at-anchorage-7925/"><span>Engineering Manager, Transparency <span class="co">Anchorage</span></span><span class="pay">$142,000–$238,000</span></a></li>
@@ -70,7 +69,6 @@ permalink: /
 <li><a href="/jobs/full-stack-engineer-blockchain-at-fireblocks-7932/"><span>Full Stack Engineer, Blockchain <span class="co">Fireblocks</span></span><span class="pay">$82,000–$138,000</span></a></li>
 <li><a href="/jobs/head-of-product-at-celestia-8196/"><span>Head of Product <span class="co">Celestia</span></span></a></li>
 <li><a href="/jobs/it-systems-engineer-at-tempo-7644/"><span>IT Systems Engineer <span class="co">Tempo</span></span></a></li>
-<li><a href="/jobs/marketing-maestro-at-cryptohero-ca-7343/"><span>Marketing maestro <span class="co">cryptohero.ca</span></span></a></li>
 <li><a href="/jobs/member-of-technical-staff-transparency-backend-engineer-at-anchorage-7532/"><span>Member of Technical Staff, Transparency (Backend Engineer) <span class="co">Anchorage</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/performance-and-growth-marketing-manager-at-interchain-foundation-7641/"><span>Performance and Growth Marketing Manager <span class="co">Interchain Foundation</span></span></a></li>
 <li><a href="/jobs/principal-product-manager-discovery-and-onboarding-exchange-at-crypto-8176/"><span>Principal Product Manager - Discovery &amp; Onboarding(Exchange) <span class="co">Crypto</span></span><span class="pay">$150,000–$250,000</span></a></li>
@@ -82,13 +80,14 @@ permalink: /
 <li><a href="/jobs/senior-java-engineer-at-coinmarketcap-7791/"><span>Senior Java Engineer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
 <li><a href="/jobs/senior-marketing-manager-at-binance-7712/"><span>Senior Marketing Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/senior-product-owner-crypto-wallet-at-tangem-8412/"><span>Senior Product Owner — Crypto Wallet <span class="co">Tangem</span></span><span class="pay">$126,500–$195,500</span></a></li>
-<li><a href="/jobs/senior-quality-assurance-automation-engineer-at-crypto-7336/"><span>Senior Quality Assurance Automation Engineer <span class="co">Crypto</span></span><span class="pay">$75,000–$125,000</span></a></li>
+<li><a href="/jobs/senior-quantitative-developer-at-polymarket-8433/"><span>Senior Quantitative Developer <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/senior-red-team-operator-at-figment-8065/"><span>Senior Red Team Operator <span class="co">Figment</span></span><span class="pay">$165,000–$180,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-coinbase-at-coinbase-8058/"><span>Senior Software Engineer - Coinbase <span class="co">Coinbase</span></span></a></li>
 <li><a href="/jobs/senior-software-engineer-c-at-stellar-development-foundation-7427/"><span>Senior Software Engineer, C++ <span class="co">Stellar Development Foundation</span></span><span class="pay">$180,000–$290,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-core-at-talos-8328/"><span>Senior Software Engineer, Core <span class="co">Talos</span></span></a></li>
 <li><a href="/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/"><span>Senior Software Engineer, Core Infra - Compute Platform <span class="co">Coinbase</span></span><span class="pay">$186,065–$218,900</span></a></li>
 <li><a href="/jobs/senior-web-developer-at-coinmarketcap-8010/"><span>Senior Web Developer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
+<li><a href="/jobs/site-reliability-engineer-core-infrastructure-at-kraken-8438/"><span>Site Reliability Engineer - Core Infrastructure <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/social-media-manager-base-at-base-8040/"><span>Social Media Manager - Base <span class="co">Base</span></span></a></li>
 <li><a href="/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/"><span>Software Development Engineer in Test <span class="co">Cardano Foundation</span></span></a></li>
 <li><a href="/jobs/software-engineer-at-arkham-7453/"><span>Software Engineer <span class="co">Arkham</span></span></a></li>
@@ -100,7 +99,7 @@ permalink: /
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 </ul>
-<h2>AI / ML (27)</h2>
+<h2>AI / ML (28)</h2>
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
@@ -117,6 +116,7 @@ permalink: /
 <li><a href="/jobs/engineering-manager-customer-experience-ai-at-coinbase-8307/"><span>Engineering Manager - Customer Experience AI <span class="co">Coinbase</span></span><span class="pay">$142,000–$238,000</span></a></li>
 <li><a href="/jobs/enterprise-account-executive-public-and-private-sector-at-chainalysis-7835/"><span>Enterprise Account Executive - Public &amp; Private Sector <span class="co">Chainalysis</span></span></a></li>
 <li><a href="/jobs/go-to-market-operations-analyst-at-quicknode-7761/"><span>Go To Market Operations Analyst <span class="co">QuickNode</span></span></a></li>
+<li><a href="/jobs/group-product-manager-compliance-automation-at-coinbase-8430/"><span>Group Product Manager, Compliance Automation <span class="co">Coinbase</span></span><span class="pay">$243,865–$286,900</span></a></li>
 <li><a href="/jobs/lead-smart-contract-engineer-at-galaxy-digital-8119/"><span>Lead Smart Contract Engineer <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/principal-senior-mobile-engineer-cex-at-okx-8157/"><span>Principal/Senior Mobile Engineer, CEX <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/protocol-director-at-galaxy-digital-8179/"><span>Protocol Director <span class="co">Galaxy Digital</span></span></a></li>
@@ -135,7 +135,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (105)</h2>
+<h2>Payments (106)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -162,12 +162,12 @@ permalink: /
 <li><a href="/jobs/events-marketing-manager-at-moonpay-7649/"><span>Events Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
 <li><a href="/jobs/field-sales-associate-bacolod-local-payments-at-coins-8313/"><span>Field Sales Associate (Bacolod) - Local Payments <span class="co">Coins</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/field-sales-associate-metro-davao-local-payments-at-coins-8314/"><span>Field Sales Associate (Metro Davao) - Local Payments <span class="co">Coins</span></span><span class="pay">$68,000–$112,000</span></a></li>
-<li><a href="/jobs/finance-manager-at-yzi-labs-7344/"><span>Finance Manager <span class="co">YZi Labs</span></span><span class="pay">$120,000–$240,000</span></a></li>
 <li><a href="/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/"><span>Financial Crime &amp; Compliance Product Manager <span class="co">BVNK</span></span><span class="pay">$51,000–$85,000</span></a></li>
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
 <li><a href="/jobs/general-counsel-at-unto-labs-7769/"><span>General Counsel <span class="co">Unto Labs</span></span></a></li>
 <li><a href="/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/"><span>Group Product Manager, Core Infra and Reliability <span class="co">Coinbase</span></span><span class="pay">$243,865–$286,900</span></a></li>
 <li><a href="/jobs/growth-lead-beacon-network-at-trm-8365/"><span>Growth Lead, Beacon Network <span class="co">TRM</span></span></a></li>
+<li><a href="/jobs/head-of-compliance-at-okx-8436/"><span>Head of Compliance <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>
 <li><a href="/jobs/head-of-payment-security-and-transaction-integrity-at-coins-8429/"><span>Head of Payment Security &amp; Transaction Integrity <span class="co">Coins</span></span><span class="pay">$112,000–$188,000</span></a></li>
@@ -232,6 +232,7 @@ permalink: /
 <li><a href="/jobs/solutions-engineer-at-bitgo-8193/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/solutions-engineer-at-bitgo-7734/"><span>Solutions Engineer <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/sr-data-analyst-product-at-kraken-7708/"><span>Sr. Data Analyst, Product <span class="co">Kraken</span></span></a></li>
+<li><a href="/jobs/staff-data-analyst-at-polymarket-8432/"><span>Staff Data Analyst <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8063/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$146,000–$218,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-platform-fineng-at-coinbase-8312/"><span>Staff Software Engineer (Platform - FinEng) <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/tech-lead-backend-fraud-at-bvnk-7434/"><span>Tech Lead (Backend): Fraud <span class="co">Bvnk</span></span></a></li>
