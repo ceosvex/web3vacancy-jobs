@@ -6,15 +6,16 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>248 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>250 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (30)</h2>
+<h2>DeFi (33)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
 <li><a href="/jobs/assurance-senior-blockchain-at-bpmcpa-7737/"><span>Assurance Senior (Blockchain) <span class="co">Bpmcpa</span></span><span class="pay">$68,000–$112,000</span></a></li>
 <li><a href="/jobs/be-engineer-with-exchange-experience-at-vdex-8185/"><span>BE Engineer with Exchange Experience <span class="co">VDEX</span></span></a></li>
 <li><a href="/jobs/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/"><span>Blockchain Developer, Smart Contract Engineer <span class="co">Axiom Chain</span></span></a></li>
+<li><a href="/jobs/blockchain-security-engineer-solidity-rust-golang-at-certik-8329/"><span>Blockchain Security Engineer - (Solidity / Rust / Golang) <span class="co">CertiK</span></span><span class="pay">$102,000–$180,000</span></a></li>
 <li><a href="/jobs/capital-markets-lead-at-stellar-development-foundation-7429/"><span>Capital Markets Lead <span class="co">Stellar Development Foundation</span></span><span class="pay">$160,000–$240,000</span></a></li>
 <li><a href="/jobs/chief-executive-officer-at-coinme-7640/"><span>Chief Executive Officer <span class="co">Coinme</span></span></a></li>
 <li><a href="/jobs/credit-and-structuring-specialist-at-morpho-labs-7709/"><span>Credit &amp; Structuring Specialist <span class="co">Morpho Labs</span></span></a></li>
@@ -34,14 +35,16 @@ permalink: /
 <li><a href="/jobs/qa-engineer-at-injective-labs-8195/"><span>QA Engineer <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/senior-manager-defi-lending-growth-at-okx-7756/"><span>Senior Manager, DeFi Lending Growth <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/"><span>Senior People Operations Specialist / Affiliate Business Development Manager <span class="co">LI.FI / OKX</span></span><span class="pay">$60,000–$90,000</span></a></li>
+<li><a href="/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/"><span>Senior Solutions Architect, Banking and Capital Markets <span class="co">Chainlink Labs</span></span><span class="pay">$125,000–$273,000</span></a></li>
 <li><a href="/jobs/senior-technical-product-manager-at-injective-labs-7447/"><span>Senior Technical Product Manager <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/senior-lead-product-manager-at-it-holding-7257/"><span>Senior/Lead Product Manager <span class="co">IT Holding</span></span></a></li>
 <li><a href="/jobs/senior-lead-product-manager-at-pgon-7256/"><span>Senior/Lead Product Manager <span class="co">PGON</span></span></a></li>
 <li><a href="/jobs/smart-contract-engineer-at-category-labs-8200/"><span>Smart Contract Engineer <span class="co">Category Labs</span></span><span class="pay">$180,000–$250,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-onchain-at-kraken-7547/"><span>Sr Product Manager, Onchain <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
+<li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (56)</h2>
+<h2>Infrastructure (55)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -86,7 +89,6 @@ permalink: /
 <li><a href="/jobs/senior-software-engineer-c-at-stellar-development-foundation-7427/"><span>Senior Software Engineer, C++ <span class="co">Stellar Development Foundation</span></span><span class="pay">$180,000–$290,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-core-at-talos-8328/"><span>Senior Software Engineer, Core <span class="co">Talos</span></span></a></li>
 <li><a href="/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/"><span>Senior Software Engineer, Core Infra - Compute Platform <span class="co">Coinbase</span></span><span class="pay">$186,065–$218,900</span></a></li>
-<li><a href="/jobs/senior-technical-writer-at-quicknode-7217/"><span>Senior Technical Writer <span class="co">QuickNode</span></span></a></li>
 <li><a href="/jobs/senior-web-developer-at-coinmarketcap-8010/"><span>Senior Web Developer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
 <li><a href="/jobs/soc-engineer-incident-response-at-binance-7297/"><span>SOC Engineer (Incident Response) <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/social-media-manager-base-at-base-8040/"><span>Social Media Manager - Base <span class="co">Base</span></span></a></li>

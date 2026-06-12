@@ -2,9 +2,9 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-248 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+250 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 30
+### DeFi · 33
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -13,6 +13,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Assurance Senior (Blockchain)](https://web3vacancy.github.io/jobs/assurance-senior-blockchain-at-bpmcpa-7737/) | Bpmcpa | $68,000–$112,000 |
 | [BE Engineer with Exchange Experience](https://web3vacancy.github.io/jobs/be-engineer-with-exchange-experience-at-vdex-8185/) | VDEX | — |
 | [Blockchain Developer, Smart Contract Engineer](https://web3vacancy.github.io/jobs/blockchain-developer-smart-contract-engineer-at-axiom-chain-7998/) | Axiom Chain | — |
+| [Blockchain Security Engineer - (Solidity / Rust / Golang)](https://web3vacancy.github.io/jobs/blockchain-security-engineer-solidity-rust-golang-at-certik-8329/) | CertiK | $102,000–$180,000 |
 | [Capital Markets Lead](https://web3vacancy.github.io/jobs/capital-markets-lead-at-stellar-development-foundation-7429/) | Stellar Development Foundation | $160,000–$240,000 |
 | [Chief Executive Officer](https://web3vacancy.github.io/jobs/chief-executive-officer-at-coinme-7640/) | Coinme | — |
 | [Credit & Structuring Specialist](https://web3vacancy.github.io/jobs/credit-and-structuring-specialist-at-morpho-labs-7709/) | Morpho Labs | — |
@@ -32,14 +33,16 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [QA Engineer](https://web3vacancy.github.io/jobs/qa-engineer-at-injective-labs-8195/) | Injective Labs | — |
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
 | [Senior People Operations Specialist / Affiliate Business Development Manager](https://web3vacancy.github.io/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/) | LI.FI / OKX | $60,000–$90,000 |
+| [Senior Solutions Architect, Banking and Capital Markets](https://web3vacancy.github.io/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/) | Chainlink Labs | $125,000–$273,000 |
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-injective-labs-7447/) | Injective Labs | — |
 | [Senior/Lead Product Manager](https://web3vacancy.github.io/jobs/senior-lead-product-manager-at-it-holding-7257/) | IT Holding | — |
 | [Senior/Lead Product Manager](https://web3vacancy.github.io/jobs/senior-lead-product-manager-at-pgon-7256/) | PGON | — |
 | [Smart Contract Engineer](https://web3vacancy.github.io/jobs/smart-contract-engineer-at-category-labs-8200/) | Category Labs | $180,000–$250,000 |
 | [Sr Product Manager, Onchain](https://web3vacancy.github.io/jobs/sr-product-manager-onchain-at-kraken-7547/) | Kraken | — |
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
+| [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 56
+### Infrastructure · 55
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -86,7 +89,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Software Engineer, C++](https://web3vacancy.github.io/jobs/senior-software-engineer-c-at-stellar-development-foundation-7427/) | Stellar Development Foundation | $180,000–$290,000 |
 | [Senior Software Engineer, Core](https://web3vacancy.github.io/jobs/senior-software-engineer-core-at-talos-8328/) | Talos | — |
 | [Senior Software Engineer, Core Infra - Compute Platform](https://web3vacancy.github.io/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/) | Coinbase | $186,065–$218,900 |
-| [Senior Technical Writer](https://web3vacancy.github.io/jobs/senior-technical-writer-at-quicknode-7217/) | QuickNode | — |
 | [Senior Web Developer](https://web3vacancy.github.io/jobs/senior-web-developer-at-coinmarketcap-8010/) | CoinMarketCap | $97,750–$149,500 |
 | [SOC Engineer (Incident Response)](https://web3vacancy.github.io/jobs/soc-engineer-incident-response-at-binance-7297/) | Binance | — |
 | [Social Media Manager - Base](https://web3vacancy.github.io/jobs/social-media-manager-base-at-base-8040/) | Base | — |
