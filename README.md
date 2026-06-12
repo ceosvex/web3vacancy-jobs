@@ -190,8 +190,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Principal Product Manager, Growth](https://web3vacancy.github.io/jobs/principal-product-manager-growth-at-circle-7329/) | Circle | $200,000–$260,000 |
 | [Privacy Manager](https://web3vacancy.github.io/jobs/privacy-manager-at-bitgo-7611/) | BitGo | $140,000–$165,000 |
 | [Product Analyst](https://web3vacancy.github.io/jobs/product-analyst-at-crypto-neobank-7919/) | Crypto Neobank | Up to $5,000 |
-| [Product Manager](https://web3vacancy.github.io/jobs/product-manager-at-satoshilabs-7295/) | SatoshiLabs | — |
 | [Product Manager](https://web3vacancy.github.io/jobs/product-manager-at-atlasora-7323/) | AtlasOra | $60,000–$120,000 |
+| [Product Manager](https://web3vacancy.github.io/jobs/product-manager-at-satoshilabs-7295/) | SatoshiLabs | — |
 | [Product Manager - Elliptic](https://web3vacancy.github.io/jobs/product-manager-elliptic-at-elliptic-8075/) | Elliptic | — |
 | [Product Manager - Ledger & Reporting](https://web3vacancy.github.io/jobs/product-manager-ledger-and-reporting-at-bvnk-7906/) | Bvnk | — |
 | [Product Manager - Security Operations](https://web3vacancy.github.io/jobs/product-manager-security-operations-at-binance-8156/) | Binance | — |
