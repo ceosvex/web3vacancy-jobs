@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-235 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+234 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 33
 
@@ -42,7 +42,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 51
+### Infrastructure · 50
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -86,7 +86,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Software Engineer, Core](https://web3vacancy.github.io/jobs/senior-software-engineer-core-at-talos-8328/) | Talos | — |
 | [Senior Software Engineer, Core Infra - Compute Platform](https://web3vacancy.github.io/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/) | Coinbase | $186,065–$218,900 |
 | [Senior Web Developer](https://web3vacancy.github.io/jobs/senior-web-developer-at-coinmarketcap-8010/) | CoinMarketCap | $97,750–$149,500 |
-| [SOC Engineer (Incident Response)](https://web3vacancy.github.io/jobs/soc-engineer-incident-response-at-binance-7297/) | Binance | — |
 | [Social Media Manager - Base](https://web3vacancy.github.io/jobs/social-media-manager-base-at-base-8040/) | Base | — |
 | [Software Development Engineer in Test](https://web3vacancy.github.io/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/) | Cardano Foundation | — |
 | [Software Engineer](https://web3vacancy.github.io/jobs/software-engineer-at-arkham-7453/) | Arkham | — |
@@ -98,7 +97,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
 
-### AI / ML · 29
+### AI / ML · 28
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -124,7 +123,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Backend Developer](https://web3vacancy.github.io/jobs/senior-backend-developer-at-galaxy-digital-8118/) | Galaxy Digital | — |
 | [Senior Machine Learning Engineer](https://web3vacancy.github.io/jobs/senior-machine-learning-engineer-at-coinbase-8308/) | Coinbase | $135,000–$225,000 |
 | [Senior Software Engineer - AI Platform Team](https://web3vacancy.github.io/jobs/senior-software-engineer-ai-platform-team-at-coinbase-8310/) | Coinbase | $98,000–$162,000 |
-| [Software Engineer, Data Growth](https://web3vacancy.github.io/jobs/software-engineer-data-growth-at-chainlink-labs-7298/) | Chainlink Labs | — |
 | [Staff ML Risk Analytics](https://web3vacancy.github.io/jobs/staff-ml-risk-analytics-at-coinbase-7929/) | Coinbase | $98,000–$162,000 |
 | [Staff Software Engineer, Graphs](https://web3vacancy.github.io/jobs/staff-software-engineer-graphs-at-chainalysis-7752/) | Chainalysis | — |
 | [Strategic Partnerships Dealmaker](https://web3vacancy.github.io/jobs/strategic-partnerships-dealmaker-at-mysten-labs-7452/) | Mysten Labs | — |
@@ -139,7 +137,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 102
+### Payments · 104
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -166,7 +164,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Events Marketing Manager](https://web3vacancy.github.io/jobs/events-marketing-manager-at-moonpay-7649/) | MoonPay | $100,000–$140,000 |
 | [Field Sales Associate (Bacolod) - Local Payments](https://web3vacancy.github.io/jobs/field-sales-associate-bacolod-local-payments-at-coins-8313/) | Coins | $98,000–$162,000 |
 | [Field Sales Associate (Metro Davao) - Local Payments](https://web3vacancy.github.io/jobs/field-sales-associate-metro-davao-local-payments-at-coins-8314/) | Coins | $68,000–$112,000 |
-| [Finance Accountant](https://web3vacancy.github.io/jobs/finance-accountant-at-improbable-7296/) | Improbable | — |
 | [Finance Manager](https://web3vacancy.github.io/jobs/finance-manager-at-yzi-labs-7344/) | YZi Labs | $120,000–$240,000 |
 | [Financial Crime & Compliance Product Manager](https://web3vacancy.github.io/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/) | BVNK | $51,000–$85,000 |
 | [Fintech Research Analyst](https://web3vacancy.github.io/jobs/fintech-research-analyst-at-artemis-7456/) | Artemis | — |
@@ -184,6 +181,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Legal Operations Associate](https://web3vacancy.github.io/jobs/legal-operations-associate-at-sei-labs-7947/) | Sei Labs | — |
 | [Manager- Banking Alliance](https://web3vacancy.github.io/jobs/manager-banking-alliance-at-unlimit-7633/) | Unlimit | $98,000–$162,000 |
 | [On-Chain Risk Strategy Manager](https://web3vacancy.github.io/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/) | Coins.ph | — |
+| [Paralegal](https://web3vacancy.github.io/jobs/paralegal-at-molecule-8396/) | Molecule | — |
 | [Partner Development Manager](https://web3vacancy.github.io/jobs/partner-development-manager-at-bvnk-7753/) | Bvnk | $130,000–$165,000 |
 | [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/) | Crypto.com | $120,000–$200,000 |
 | [Predictions & Digital Asset Markets Account Manager/Senior Manager](https://web3vacancy.github.io/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/) | Crypto.com | $120,000–$200,000 |
@@ -191,7 +189,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Privacy Manager](https://web3vacancy.github.io/jobs/privacy-manager-at-bitgo-7611/) | BitGo | $140,000–$165,000 |
 | [Product Analyst](https://web3vacancy.github.io/jobs/product-analyst-at-crypto-neobank-7919/) | Crypto Neobank | Up to $5,000 |
 | [Product Manager](https://web3vacancy.github.io/jobs/product-manager-at-atlasora-7323/) | AtlasOra | $60,000–$120,000 |
-| [Product Manager](https://web3vacancy.github.io/jobs/product-manager-at-satoshilabs-7295/) | SatoshiLabs | — |
 | [Product Manager - Elliptic](https://web3vacancy.github.io/jobs/product-manager-elliptic-at-elliptic-8075/) | Elliptic | — |
 | [Product Manager - Ledger & Reporting](https://web3vacancy.github.io/jobs/product-manager-ledger-and-reporting-at-bvnk-7906/) | Bvnk | — |
 | [Product Manager - Security Operations](https://web3vacancy.github.io/jobs/product-manager-security-operations-at-binance-8156/) | Binance | — |
@@ -200,6 +197,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Marketing Manager, Prediction Markets](https://web3vacancy.github.io/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/) | Coinbase | $140,080–$164,800 |
 | [Product Operations Manager](https://web3vacancy.github.io/jobs/product-operations-manager-at-binance-8362/) | Binance | — |
 | [Public Relations Manager](https://web3vacancy.github.io/jobs/public-relations-manager-at-coinmarketcap-7374/) | CoinMarketCap | $86,250–$138,000 |
+| [QA Engineer - Binance](https://web3vacancy.github.io/jobs/qa-engineer-binance-at-binance-8400/) | Binance | — |
 | [Quantitative Researcher - Prediction Markets, Quant Trading](https://web3vacancy.github.io/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/) | Crypto.com | $100,000–$150,000 |
 | [Regional Institutional Manager, Latin America](https://web3vacancy.github.io/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/) | Anchorage | $75,000–$125,000 |
 | [Regional Manager, Customer Success](https://web3vacancy.github.io/jobs/regional-manager-customer-success-at-elliptic-7606/) | Elliptic | — |
@@ -214,6 +212,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Backend Engineer – Finapps/Access](https://web3vacancy.github.io/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/) | Fireblocks | $135,000–$225,000 |
 | [Senior Business Development Director, Americas](https://web3vacancy.github.io/jobs/senior-business-development-director-americas-at-circle-7331/) | Circle | $245,000–$307,500 |
 | [Senior Compliance Associate](https://web3vacancy.github.io/jobs/senior-compliance-associate-at-figure-7714/) | Figure | $74,800–$112,200 |
+| [Senior Counsel - Product](https://web3vacancy.github.io/jobs/senior-counsel-product-at-kraken-8395/) | Kraken | — |
 | [Senior CRM MarTech Manager](https://web3vacancy.github.io/jobs/senior-crm-martech-manager-at-crypto-com-7901/) | Crypto.com | — |
 | [Senior Data Engineer, Compliance Data Platform](https://web3vacancy.github.io/jobs/senior-data-engineer-compliance-data-platform-at-okx-7903/) | OKX | — |
 | [Senior Events Marketing Manager](https://web3vacancy.github.io/jobs/senior-events-marketing-manager-at-stellar-development-foundation-7442/) | Stellar Development Foundation | $130,000–$200,000 |
@@ -224,6 +223,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Marketing Associate - Social & Community](https://web3vacancy.github.io/jobs/senior-marketing-associate-social-and-community-at-stronghold-8186/) | Stronghold | $110,000–$130,000 |
 | [Senior Marketing Manager/Director, Payments & Merchant Growth](https://web3vacancy.github.io/jobs/senior-marketing-manager-director-payments-and-merchant-growth-at-coins-7542/) | Coins | $150,000–$250,000 |
 | [Senior Product Manager](https://web3vacancy.github.io/jobs/senior-product-manager-at-matter-labs-7451/) | Matter Labs | — |
+| [Senior Product Manager Web3](https://web3vacancy.github.io/jobs/senior-product-manager-web3-at-bitpanda-8398/) | Bitpanda | — |
 | [Senior Product Manager, CX Automation](https://web3vacancy.github.io/jobs/senior-product-manager-cx-automation-at-coinbase-8316/) | Coinbase | $207,485–$244,100 |
 | [Senior Product Manager, Trust Company](https://web3vacancy.github.io/jobs/senior-product-manager-trust-company-at-fireblocks-7432/) | Fireblocks | $154,000–$203,000 |
 | [Senior Quality Assurance Automation Engineer](https://web3vacancy.github.io/jobs/senior-quality-assurance-automation-engineer-at-crypto-com-7902/) | Crypto.com | — |
@@ -252,13 +252,12 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | :-- | :-- | :-- |
 | [Sales Director - Institutional OTC](https://web3vacancy.github.io/jobs/sales-director-institutional-otc-at-ripple-7424/) | Ripple | $105,000–$175,000 |
 
-### Security · 5
+### Security · 4
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
 | [Principal Security Architect](https://web3vacancy.github.io/jobs/principal-security-architect-at-copperco-7543/) | Copperco | $128,000–$212,000 |
 | [Security Analyst](https://web3vacancy.github.io/jobs/security-analyst-at-aptoslabs-7533/) | Aptoslabs | $75,000–$125,000 |
-| [Security Engineer - Blue Teamer](https://web3vacancy.github.io/jobs/security-engineer-blue-teamer-at-satoshilabs-7294/) | SatoshiLabs | — |
 | [Security Operations Engineer](https://web3vacancy.github.io/jobs/security-operations-engineer-at-okx-8110/) | OKX | — |
 | [Senior Infrastructure Security Engineer](https://web3vacancy.github.io/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/) | Matter Labs | — |
 

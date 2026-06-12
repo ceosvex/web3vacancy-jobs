@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>235 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>234 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (33)</h2>
 <ul class="jobs">
@@ -44,7 +44,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (51)</h2>
+<h2>Infrastructure (50)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -86,7 +86,6 @@ permalink: /
 <li><a href="/jobs/senior-software-engineer-core-at-talos-8328/"><span>Senior Software Engineer, Core <span class="co">Talos</span></span></a></li>
 <li><a href="/jobs/senior-software-engineer-core-infra-compute-platform-at-coinbase-8183/"><span>Senior Software Engineer, Core Infra - Compute Platform <span class="co">Coinbase</span></span><span class="pay">$186,065–$218,900</span></a></li>
 <li><a href="/jobs/senior-web-developer-at-coinmarketcap-8010/"><span>Senior Web Developer <span class="co">CoinMarketCap</span></span><span class="pay">$97,750–$149,500</span></a></li>
-<li><a href="/jobs/soc-engineer-incident-response-at-binance-7297/"><span>SOC Engineer (Incident Response) <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/social-media-manager-base-at-base-8040/"><span>Social Media Manager - Base <span class="co">Base</span></span></a></li>
 <li><a href="/jobs/software-development-engineer-in-test-at-cardano-foundation-8198/"><span>Software Development Engineer in Test <span class="co">Cardano Foundation</span></span></a></li>
 <li><a href="/jobs/software-engineer-at-arkham-7453/"><span>Software Engineer <span class="co">Arkham</span></span></a></li>
@@ -98,7 +97,7 @@ permalink: /
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 </ul>
-<h2>AI / ML (29)</h2>
+<h2>AI / ML (28)</h2>
 <ul class="jobs">
 <li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
@@ -122,7 +121,6 @@ permalink: /
 <li><a href="/jobs/senior-backend-developer-at-galaxy-digital-8118/"><span>Senior Backend Developer <span class="co">Galaxy Digital</span></span></a></li>
 <li><a href="/jobs/senior-machine-learning-engineer-at-coinbase-8308/"><span>Senior Machine Learning Engineer <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-software-engineer-ai-platform-team-at-coinbase-8310/"><span>Senior Software Engineer - AI Platform Team <span class="co">Coinbase</span></span><span class="pay">$98,000–$162,000</span></a></li>
-<li><a href="/jobs/software-engineer-data-growth-at-chainlink-labs-7298/"><span>Software Engineer, Data Growth <span class="co">Chainlink Labs</span></span></a></li>
 <li><a href="/jobs/staff-ml-risk-analytics-at-coinbase-7929/"><span>Staff ML Risk Analytics <span class="co">Coinbase</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-graphs-at-chainalysis-7752/"><span>Staff Software Engineer, Graphs <span class="co">Chainalysis</span></span></a></li>
 <li><a href="/jobs/strategic-partnerships-dealmaker-at-mysten-labs-7452/"><span>Strategic Partnerships Dealmaker <span class="co">Mysten Labs</span></span></a></li>
@@ -135,7 +133,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (102)</h2>
+<h2>Payments (104)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -160,7 +158,6 @@ permalink: /
 <li><a href="/jobs/events-marketing-manager-at-moonpay-7649/"><span>Events Marketing Manager <span class="co">MoonPay</span></span><span class="pay">$100,000–$140,000</span></a></li>
 <li><a href="/jobs/field-sales-associate-bacolod-local-payments-at-coins-8313/"><span>Field Sales Associate (Bacolod) - Local Payments <span class="co">Coins</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/field-sales-associate-metro-davao-local-payments-at-coins-8314/"><span>Field Sales Associate (Metro Davao) - Local Payments <span class="co">Coins</span></span><span class="pay">$68,000–$112,000</span></a></li>
-<li><a href="/jobs/finance-accountant-at-improbable-7296/"><span>Finance Accountant <span class="co">Improbable</span></span></a></li>
 <li><a href="/jobs/finance-manager-at-yzi-labs-7344/"><span>Finance Manager <span class="co">YZi Labs</span></span><span class="pay">$120,000–$240,000</span></a></li>
 <li><a href="/jobs/financial-crime-and-compliance-product-manager-at-bvnk-8199/"><span>Financial Crime &amp; Compliance Product Manager <span class="co">BVNK</span></span><span class="pay">$51,000–$85,000</span></a></li>
 <li><a href="/jobs/fintech-research-analyst-at-artemis-7456/"><span>Fintech Research Analyst <span class="co">Artemis</span></span></a></li>
@@ -178,6 +175,7 @@ permalink: /
 <li><a href="/jobs/legal-operations-associate-at-sei-labs-7947/"><span>Legal Operations Associate <span class="co">Sei Labs</span></span></a></li>
 <li><a href="/jobs/manager-banking-alliance-at-unlimit-7633/"><span>Manager- Banking Alliance <span class="co">Unlimit</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
+<li><a href="/jobs/paralegal-at-molecule-8396/"><span>Paralegal <span class="co">Molecule</span></span></a></li>
 <li><a href="/jobs/partner-development-manager-at-bvnk-7753/"><span>Partner Development Manager <span class="co">Bvnk</span></span><span class="pay">$130,000–$165,000</span></a></li>
 <li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7627/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/predictions-and-digital-asset-markets-account-manager-senior-manager-at-crypto-com-7931/"><span>Predictions &amp; Digital Asset Markets Account Manager/Senior Manager <span class="co">Crypto.com</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -185,7 +183,6 @@ permalink: /
 <li><a href="/jobs/privacy-manager-at-bitgo-7611/"><span>Privacy Manager <span class="co">BitGo</span></span><span class="pay">$140,000–$165,000</span></a></li>
 <li><a href="/jobs/product-analyst-at-crypto-neobank-7919/"><span>Product Analyst <span class="co">Crypto Neobank</span></span><span class="pay">Up to $5,000</span></a></li>
 <li><a href="/jobs/product-manager-at-atlasora-7323/"><span>Product Manager <span class="co">AtlasOra</span></span><span class="pay">$60,000–$120,000</span></a></li>
-<li><a href="/jobs/product-manager-at-satoshilabs-7295/"><span>Product Manager <span class="co">SatoshiLabs</span></span></a></li>
 <li><a href="/jobs/product-manager-elliptic-at-elliptic-8075/"><span>Product Manager - Elliptic <span class="co">Elliptic</span></span></a></li>
 <li><a href="/jobs/product-manager-ledger-and-reporting-at-bvnk-7906/"><span>Product Manager - Ledger &amp; Reporting <span class="co">Bvnk</span></span></a></li>
 <li><a href="/jobs/product-manager-security-operations-at-binance-8156/"><span>Product Manager - Security Operations <span class="co">Binance</span></span></a></li>
@@ -194,6 +191,7 @@ permalink: /
 <li><a href="/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/"><span>Product Marketing Manager, Prediction Markets <span class="co">Coinbase</span></span><span class="pay">$140,080–$164,800</span></a></li>
 <li><a href="/jobs/product-operations-manager-at-binance-8362/"><span>Product Operations Manager <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/public-relations-manager-at-coinmarketcap-7374/"><span>Public Relations Manager <span class="co">CoinMarketCap</span></span><span class="pay">$86,250–$138,000</span></a></li>
+<li><a href="/jobs/qa-engineer-binance-at-binance-8400/"><span>QA Engineer - Binance <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/"><span>Quantitative Researcher - Prediction Markets, Quant Trading <span class="co">Crypto.com</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"><span>Regional Institutional Manager, Latin America <span class="co">Anchorage</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/regional-manager-customer-success-at-elliptic-7606/"><span>Regional Manager, Customer Success <span class="co">Elliptic</span></span></a></li>
@@ -208,6 +206,7 @@ permalink: /
 <li><a href="/jobs/senior-backend-engineer-finapps-access-at-fireblocks-7934/"><span>Senior Backend Engineer – Finapps/Access <span class="co">Fireblocks</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/senior-business-development-director-americas-at-circle-7331/"><span>Senior Business Development Director, Americas <span class="co">Circle</span></span><span class="pay">$245,000–$307,500</span></a></li>
 <li><a href="/jobs/senior-compliance-associate-at-figure-7714/"><span>Senior Compliance Associate <span class="co">Figure</span></span><span class="pay">$74,800–$112,200</span></a></li>
+<li><a href="/jobs/senior-counsel-product-at-kraken-8395/"><span>Senior Counsel - Product <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/senior-crm-martech-manager-at-crypto-com-7901/"><span>Senior CRM MarTech Manager <span class="co">Crypto.com</span></span></a></li>
 <li><a href="/jobs/senior-data-engineer-compliance-data-platform-at-okx-7903/"><span>Senior Data Engineer, Compliance Data Platform <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-events-marketing-manager-at-stellar-development-foundation-7442/"><span>Senior Events Marketing Manager <span class="co">Stellar Development Foundation</span></span><span class="pay">$130,000–$200,000</span></a></li>
@@ -218,6 +217,7 @@ permalink: /
 <li><a href="/jobs/senior-marketing-associate-social-and-community-at-stronghold-8186/"><span>Senior Marketing Associate - Social &amp; Community <span class="co">Stronghold</span></span><span class="pay">$110,000–$130,000</span></a></li>
 <li><a href="/jobs/senior-marketing-manager-director-payments-and-merchant-growth-at-coins-7542/"><span>Senior Marketing Manager/Director, Payments &amp; Merchant Growth <span class="co">Coins</span></span><span class="pay">$150,000–$250,000</span></a></li>
 <li><a href="/jobs/senior-product-manager-at-matter-labs-7451/"><span>Senior Product Manager <span class="co">Matter Labs</span></span></a></li>
+<li><a href="/jobs/senior-product-manager-web3-at-bitpanda-8398/"><span>Senior Product Manager Web3 <span class="co">Bitpanda</span></span></a></li>
 <li><a href="/jobs/senior-product-manager-cx-automation-at-coinbase-8316/"><span>Senior Product Manager, CX Automation <span class="co">Coinbase</span></span><span class="pay">$207,485–$244,100</span></a></li>
 <li><a href="/jobs/senior-product-manager-trust-company-at-fireblocks-7432/"><span>Senior Product Manager, Trust Company <span class="co">Fireblocks</span></span><span class="pay">$154,000–$203,000</span></a></li>
 <li><a href="/jobs/senior-quality-assurance-automation-engineer-at-crypto-com-7902/"><span>Senior Quality Assurance Automation Engineer <span class="co">Crypto.com</span></span></a></li>
@@ -244,11 +244,10 @@ permalink: /
 <ul class="jobs">
 <li><a href="/jobs/sales-director-institutional-otc-at-ripple-7424/"><span>Sales Director - Institutional OTC <span class="co">Ripple</span></span><span class="pay">$105,000–$175,000</span></a></li>
 </ul>
-<h2>Security (5)</h2>
+<h2>Security (4)</h2>
 <ul class="jobs">
 <li><a href="/jobs/principal-security-architect-at-copperco-7543/"><span>Principal Security Architect <span class="co">Copperco</span></span><span class="pay">$128,000–$212,000</span></a></li>
 <li><a href="/jobs/security-analyst-at-aptoslabs-7533/"><span>Security Analyst <span class="co">Aptoslabs</span></span><span class="pay">$75,000–$125,000</span></a></li>
-<li><a href="/jobs/security-engineer-blue-teamer-at-satoshilabs-7294/"><span>Security Engineer - Blue Teamer <span class="co">SatoshiLabs</span></span></a></li>
 <li><a href="/jobs/security-operations-engineer-at-okx-8110/"><span>Security Operations Engineer <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/"><span>Senior Infrastructure Security Engineer <span class="co">Matter Labs</span></span></a></li>
 </ul>
