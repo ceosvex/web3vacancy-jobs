@@ -42,7 +42,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 50
+### Infrastructure · 51
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -54,6 +54,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Binance Accelerator Program - Fullstack Developer (Internal Applications)](https://web3vacancy.github.io/jobs/binance-accelerator-program-fullstack-developer-internal-applications-at-binance-8166/) | Binance | $75,000–$125,000 |
 | [Blockchain Developer (Solidity + Web3 + MERN Stack)](https://web3vacancy.github.io/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/) | AccuraSoft | — |
 | [Blockchain Engineer - Binance Wallet](https://web3vacancy.github.io/jobs/blockchain-engineer-binance-wallet-at-binance-8302/) | Binance | $105,000–$175,000 |
+| [Chief Marketing Officer](https://web3vacancy.github.io/jobs/chief-marketing-officer-at-hive-labs-8391/) | Hive Labs | $110,000–$140,000 |
 | [Client Engagement API Specialist](https://web3vacancy.github.io/jobs/client-engagement-api-specialist-at-kraken-8181/) | Kraken | — |
 | [DevOps / Site Reliability Engineer](https://web3vacancy.github.io/jobs/devops-site-reliability-engineer-at-okx-8112/) | OKX | — |
 | [Director of Site Reliability Engineering](https://web3vacancy.github.io/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/) | Stellar Development Foundation | $210,000–$310,000 |
@@ -138,7 +139,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 103
+### Payments · 102
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -180,7 +181,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-polymarket-7746/) | Polymarket | — |
 | [Institutional Sales Associate - Blockchain](https://web3vacancy.github.io/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/) | Blockchain | — |
-| [Legal Counsel - Data Protection](https://web3vacancy.github.io/jobs/legal-counsel-data-protection-at-bitpanda-7293/) | Bitpanda | — |
 | [Legal Operations Associate](https://web3vacancy.github.io/jobs/legal-operations-associate-at-sei-labs-7947/) | Sei Labs | — |
 | [Manager- Banking Alliance](https://web3vacancy.github.io/jobs/manager-banking-alliance-at-unlimit-7633/) | Unlimit | $98,000–$162,000 |
 | [On-Chain Risk Strategy Manager](https://web3vacancy.github.io/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/) | Coins.ph | — |

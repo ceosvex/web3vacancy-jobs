@@ -44,7 +44,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (50)</h2>
+<h2>Infrastructure (51)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/application-architect-java-at-okx-8033/"><span>Application Architect, Java <span class="co">OKX</span></span></a></li>
@@ -54,6 +54,7 @@ permalink: /
 <li><a href="/jobs/binance-accelerator-program-fullstack-developer-internal-applications-at-binance-8166/"><span>Binance Accelerator Program - Fullstack Developer (Internal Applications) <span class="co">Binance</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/blockchain-developer-solidity-web3-mern-stack-at-accurasoft-7481/"><span>Blockchain Developer (Solidity + Web3 + MERN Stack) <span class="co">AccuraSoft</span></span></a></li>
 <li><a href="/jobs/blockchain-engineer-binance-wallet-at-binance-8302/"><span>Blockchain Engineer - Binance Wallet <span class="co">Binance</span></span><span class="pay">$105,000–$175,000</span></a></li>
+<li><a href="/jobs/chief-marketing-officer-at-hive-labs-8391/"><span>Chief Marketing Officer <span class="co">Hive Labs</span></span><span class="pay">$110,000–$140,000</span></a></li>
 <li><a href="/jobs/client-engagement-api-specialist-at-kraken-8181/"><span>Client Engagement API Specialist <span class="co">Kraken</span></span></a></li>
 <li><a href="/jobs/devops-site-reliability-engineer-at-okx-8112/"><span>DevOps / Site Reliability Engineer <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/director-of-site-reliability-engineering-at-stellar-development-foundation-7441/"><span>Director of Site Reliability Engineering <span class="co">Stellar Development Foundation</span></span><span class="pay">$210,000–$310,000</span></a></li>
@@ -134,7 +135,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (103)</h2>
+<h2>Payments (102)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -174,7 +175,6 @@ permalink: /
 <li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-polymarket-7746/"><span>Institutional Sales Associate <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-blockchain-at-blockchain-7553/"><span>Institutional Sales Associate - Blockchain <span class="co">Blockchain</span></span></a></li>
-<li><a href="/jobs/legal-counsel-data-protection-at-bitpanda-7293/"><span>Legal Counsel - Data Protection <span class="co">Bitpanda</span></span></a></li>
 <li><a href="/jobs/legal-operations-associate-at-sei-labs-7947/"><span>Legal Operations Associate <span class="co">Sei Labs</span></span></a></li>
 <li><a href="/jobs/manager-banking-alliance-at-unlimit-7633/"><span>Manager- Banking Alliance <span class="co">Unlimit</span></span><span class="pay">$98,000–$162,000</span></a></li>
 <li><a href="/jobs/on-chain-risk-strategy-manager-at-coins-ph-7512/"><span>On-Chain Risk Strategy Manager <span class="co">Coins.ph</span></span></a></li>
