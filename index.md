@@ -170,8 +170,8 @@ permalink: /
 <li><a href="/jobs/growth-lead-beacon-network-at-trm-8365/"><span>Growth Lead, Beacon Network <span class="co">TRM</span></span></a></li>
 <li><a href="/jobs/head-of-cross-border-payments-at-coins-ph-7389/"><span>Head of Cross-Border Payments <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-engineering-at-coinhako-8036/"><span>Head of Engineering <span class="co">Coinhako</span></span></a></li>
-<li><a href="/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/"><span>Head of Payment Security &amp; Transaction Integrity <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-payment-security-and-transaction-integrity-at-coins-8429/"><span>Head of Payment Security &amp; Transaction Integrity <span class="co">Coins</span></span><span class="pay">$112,000–$188,000</span></a></li>
+<li><a href="/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/"><span>Head of Payment Security &amp; Transaction Integrity <span class="co">Coins.ph</span></span></a></li>
 <li><a href="/jobs/head-of-technical-customer-experience-at-polymarket-8068/"><span>Head of Technical Customer Experience <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/"><span>Institutional Business Development Manager - Wintermute <span class="co">Wintermute</span></span></a></li>
 <li><a href="/jobs/institutional-sales-associate-at-blockchain-7625/"><span>Institutional Sales Associate <span class="co">Blockchain</span></span></a></li>

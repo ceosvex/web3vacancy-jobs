@@ -176,8 +176,8 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Growth Lead, Beacon Network](https://web3vacancy.github.io/jobs/growth-lead-beacon-network-at-trm-8365/) | TRM | — |
 | [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |
-| [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/) | Coins.ph | — |
 | [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-8429/) | Coins | $112,000–$188,000 |
+| [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/) | Coins.ph | — |
 | [Head of Technical Customer Experience](https://web3vacancy.github.io/jobs/head-of-technical-customer-experience-at-polymarket-8068/) | Polymarket | — |
 | [Institutional Business Development Manager - Wintermute](https://web3vacancy.github.io/jobs/institutional-business-development-manager-wintermute-at-wintermute-7946/) | Wintermute | — |
 | [Institutional Sales Associate](https://web3vacancy.github.io/jobs/institutional-sales-associate-at-blockchain-7625/) | Blockchain | — |
