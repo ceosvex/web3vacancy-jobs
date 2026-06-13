@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-237 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+239 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 33
 
@@ -139,7 +139,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 106
+### Payments · 107
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -150,6 +150,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Associate General Counsel, Crypto Services](https://web3vacancy.github.io/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/) | Fireblocks | $202,000–$265,000 |
 | [Binance Accelerator Program - Product Growth (BigPay)](https://web3vacancy.github.io/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/) | Binance | — |
 | [Binance Pay Business Lead](https://web3vacancy.github.io/jobs/binance-pay-business-lead-at-binance-8301/) | Binance | $98,000–$162,000 |
+| [Business Development Director, Capital Markets, Repo and Derivatives](https://web3vacancy.github.io/jobs/business-development-director-capital-markets-repo-and-derivatives-at-circle-8441/) | Circle | $212,500–$272,500 |
 | [Client Executive - Polymarket](https://web3vacancy.github.io/jobs/client-executive-polymarket-at-polymarket-7743/) | Polymarket | — |
 | [Compliance Analyst](https://web3vacancy.github.io/jobs/compliance-analyst-at-bitgo-7730/) | BitGo | — |
 | [Compliance Manager](https://web3vacancy.github.io/jobs/compliance-manager-at-blockchain-8422/) | Blockchain | — |
@@ -265,7 +266,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Security Operations Engineer](https://web3vacancy.github.io/jobs/security-operations-engineer-at-okx-8110/) | OKX | — |
 | [Senior Infrastructure Security Engineer](https://web3vacancy.github.io/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/) | Matter Labs | — |
 
-### Design · 7
+### Design · 8
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -275,6 +276,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Graphic Designer - Paid Advertisement](https://web3vacancy.github.io/jobs/senior-graphic-designer-paid-advertisement-at-binance-8421/) | Binance | $112,000–$188,000 |
 | [Senior Motion Designer](https://web3vacancy.github.io/jobs/senior-motion-designer-at-fireblocks-7739/) | Fireblocks | $75,000–$125,000 |
 | [Senior Product Designer, Consumer - Blockchain](https://web3vacancy.github.io/jobs/senior-product-designer-consumer-blockchain-at-blockchain-8062/) | Blockchain | — |
+| [Staff Product Designer - Advanced Trade](https://web3vacancy.github.io/jobs/staff-product-designer-advanced-trade-at-coinbase-8442/) | Coinbase | $207,485–$244,100 |
 | [Staff Product Designer - Advanced Trade](https://web3vacancy.github.io/jobs/staff-product-designer-advanced-trade-at-coinbase-7930/) | Coinbase | $135,000–$225,000 |
 
 ### Other · 4

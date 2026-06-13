@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
-<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>237 open roles.</strong> Pick any role for details and to apply on the live site.</p>
+<p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>239 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
 <h2>DeFi (33)</h2>
 <ul class="jobs">
@@ -135,7 +135,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (106)</h2>
+<h2>Payments (107)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -144,6 +144,7 @@ permalink: /
 <li><a href="/jobs/associate-general-counsel-crypto-services-at-fireblocks-7639/"><span>Associate General Counsel, Crypto Services <span class="co">Fireblocks</span></span><span class="pay">$202,000–$265,000</span></a></li>
 <li><a href="/jobs/binance-accelerator-program-product-growth-bigpay-at-binance-8038/"><span>Binance Accelerator Program - Product Growth (BigPay) <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/binance-pay-business-lead-at-binance-8301/"><span>Binance Pay Business Lead <span class="co">Binance</span></span><span class="pay">$98,000–$162,000</span></a></li>
+<li><a href="/jobs/business-development-director-capital-markets-repo-and-derivatives-at-circle-8441/"><span>Business Development Director, Capital Markets, Repo and Derivatives <span class="co">Circle</span></span><span class="pay">$212,500–$272,500</span></a></li>
 <li><a href="/jobs/client-executive-polymarket-at-polymarket-7743/"><span>Client Executive - Polymarket <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/compliance-analyst-at-bitgo-7730/"><span>Compliance Analyst <span class="co">BitGo</span></span></a></li>
 <li><a href="/jobs/compliance-manager-at-blockchain-8422/"><span>Compliance Manager <span class="co">Blockchain</span></span></a></li>
@@ -255,7 +256,7 @@ permalink: /
 <li><a href="/jobs/security-operations-engineer-at-okx-8110/"><span>Security Operations Engineer <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-infrastructure-security-engineer-at-matter-labs-7450/"><span>Senior Infrastructure Security Engineer <span class="co">Matter Labs</span></span></a></li>
 </ul>
-<h2>Design (7)</h2>
+<h2>Design (8)</h2>
 <ul class="jobs">
 <li><a href="/jobs/brand-design-manager-at-stellar-development-foundation-7632/"><span>Brand Design Manager <span class="co">Stellar Development Foundation</span></span><span class="pay">$145,000–$215,000</span></a></li>
 <li><a href="/jobs/crypto-trading-product-designer-at-bitmex-7648/"><span>Crypto Trading Product Designer <span class="co">BitMEX</span></span></a></li>
@@ -263,6 +264,7 @@ permalink: /
 <li><a href="/jobs/senior-graphic-designer-paid-advertisement-at-binance-8421/"><span>Senior Graphic Designer - Paid Advertisement <span class="co">Binance</span></span><span class="pay">$112,000–$188,000</span></a></li>
 <li><a href="/jobs/senior-motion-designer-at-fireblocks-7739/"><span>Senior Motion Designer <span class="co">Fireblocks</span></span><span class="pay">$75,000–$125,000</span></a></li>
 <li><a href="/jobs/senior-product-designer-consumer-blockchain-at-blockchain-8062/"><span>Senior Product Designer, Consumer - Blockchain <span class="co">Blockchain</span></span></a></li>
+<li><a href="/jobs/staff-product-designer-advanced-trade-at-coinbase-8442/"><span>Staff Product Designer - Advanced Trade <span class="co">Coinbase</span></span><span class="pay">$207,485–$244,100</span></a></li>
 <li><a href="/jobs/staff-product-designer-advanced-trade-at-coinbase-7930/"><span>Staff Product Designer - Advanced Trade <span class="co">Coinbase</span></span><span class="pay">$135,000–$225,000</span></a></li>
 </ul>
 <h2>Other (4)</h2>
