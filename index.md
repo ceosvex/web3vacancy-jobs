@@ -8,7 +8,7 @@ permalink: /
 <h1>Web3, Crypto &amp; Blockchain Jobs</h1>
 <p class="intro">An automatically updated mirror of live vacancies from <a href="https://web3vacancy.com">web3vacancy.com</a> — the curated job board for web3 careers. <strong>239 open roles.</strong> Pick any role for details and to apply on the live site.</p>
 
-<h2>DeFi (33)</h2>
+<h2>DeFi (34)</h2>
 <ul class="jobs">
 <li><a href="/jobs/senior-product-manager-tokenized-stocks-equity-trading-dex-at-okx-7857/"><span>(Senior) Product Manager, Tokenized Stocks/Equity Trading (DEX) <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/associate-listings-and-ecosystem-development-at-bitgo-7732/"><span>Associate - Listings &amp; Ecosystem Development <span class="co">BitGo</span></span><span class="pay">$100,000–$125,000</span></a></li>
@@ -36,6 +36,7 @@ permalink: /
 <li><a href="/jobs/senior-blockchain-engineer-at-useblocky-8368/"><span>Senior Blockchain Engineer <span class="co">UseBlocky</span></span><span class="pay">$250,000–$300,000</span></a></li>
 <li><a href="/jobs/senior-manager-defi-lending-growth-at-okx-7756/"><span>Senior Manager, DeFi Lending Growth <span class="co">OKX</span></span></a></li>
 <li><a href="/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/"><span>Senior People Operations Specialist / Affiliate Business Development Manager <span class="co">LI.FI / OKX</span></span><span class="pay">$60,000–$90,000</span></a></li>
+<li><a href="/jobs/senior-smart-contract-engineer-base-at-base-8463/"><span>Senior Smart Contract Engineer - Base <span class="co">Base</span></span><span class="pay">$186,065–$218,900</span></a></li>
 <li><a href="/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/"><span>Senior Solutions Architect, Banking and Capital Markets <span class="co">Chainlink Labs</span></span><span class="pay">$125,000–$273,000</span></a></li>
 <li><a href="/jobs/senior-technical-product-manager-at-injective-labs-7447/"><span>Senior Technical Product Manager <span class="co">Injective Labs</span></span></a></li>
 <li><a href="/jobs/smart-contract-engineer-at-category-labs-8200/"><span>Smart Contract Engineer <span class="co">Category Labs</span></span><span class="pay">$180,000–$250,000</span></a></li>
@@ -135,7 +136,7 @@ permalink: /
 <li><a href="/jobs/product-management-lead-growth-at-magic-eden-7390/"><span>Product Management Lead, Growth <span class="co">Magic Eden</span></span></a></li>
 <li><a href="/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/"><span>Senior Fullstack Engineer Backend Focus <span class="co">RugsDotFun</span></span><span class="pay">$120,000–$200,000</span></a></li>
 </ul>
-<h2>Payments (107)</h2>
+<h2>Payments (106)</h2>
 <ul class="jobs">
 <li><a href="/jobs/sr-product-manager-at-btse-8303/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
 <li><a href="/jobs/sr-product-manager-at-btse-8304/"><span>(Sr.) Product Manager <span class="co">Btse</span></span><span class="pay">$120,000–$200,000</span></a></li>
@@ -194,7 +195,6 @@ permalink: /
 <li><a href="/jobs/product-manager-payments-at-polymarket-7745/"><span>Product Manager, Payments <span class="co">Polymarket</span></span></a></li>
 <li><a href="/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/"><span>Product Marketing Manager, Prediction Markets <span class="co">Coinbase</span></span><span class="pay">$140,080–$164,800</span></a></li>
 <li><a href="/jobs/product-operations-manager-at-binance-8362/"><span>Product Operations Manager <span class="co">Binance</span></span></a></li>
-<li><a href="/jobs/public-relations-manager-at-coinmarketcap-7374/"><span>Public Relations Manager <span class="co">CoinMarketCap</span></span><span class="pay">$86,250–$138,000</span></a></li>
 <li><a href="/jobs/qa-engineer-binance-at-binance-8400/"><span>QA Engineer - Binance <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/"><span>Quantitative Researcher - Prediction Markets, Quant Trading <span class="co">Crypto.com</span></span><span class="pay">$100,000–$150,000</span></a></li>
 <li><a href="/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/"><span>Regional Institutional Manager, Latin America <span class="co">Anchorage</span></span><span class="pay">$75,000–$125,000</span></a></li>

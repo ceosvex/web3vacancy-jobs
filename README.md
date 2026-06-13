@@ -4,7 +4,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 
 239 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
-### DeFi · 33
+### DeFi · 34
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -34,6 +34,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Senior Blockchain Engineer](https://web3vacancy.github.io/jobs/senior-blockchain-engineer-at-useblocky-8368/) | UseBlocky | $250,000–$300,000 |
 | [Senior Manager, DeFi Lending Growth](https://web3vacancy.github.io/jobs/senior-manager-defi-lending-growth-at-okx-7756/) | OKX | — |
 | [Senior People Operations Specialist / Affiliate Business Development Manager](https://web3vacancy.github.io/jobs/senior-people-operations-specialist-affiliate-business-development-manager-at-li-fi-okx-7494/) | LI.FI / OKX | $60,000–$90,000 |
+| [Senior Smart Contract Engineer - Base](https://web3vacancy.github.io/jobs/senior-smart-contract-engineer-base-at-base-8463/) | Base | $186,065–$218,900 |
 | [Senior Solutions Architect, Banking and Capital Markets](https://web3vacancy.github.io/jobs/senior-solutions-architect-banking-and-capital-markets-at-chainlink-labs-8331/) | Chainlink Labs | $125,000–$273,000 |
 | [Senior Technical Product Manager](https://web3vacancy.github.io/jobs/senior-technical-product-manager-at-injective-labs-7447/) | Injective Labs | — |
 | [Smart Contract Engineer](https://web3vacancy.github.io/jobs/smart-contract-engineer-at-category-labs-8200/) | Category Labs | $180,000–$250,000 |
@@ -139,7 +140,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 107
+### Payments · 106
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -200,7 +201,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Manager, Payments](https://web3vacancy.github.io/jobs/product-manager-payments-at-polymarket-7745/) | Polymarket | — |
 | [Product Marketing Manager, Prediction Markets](https://web3vacancy.github.io/jobs/product-marketing-manager-prediction-markets-at-coinbase-8246/) | Coinbase | $140,080–$164,800 |
 | [Product Operations Manager](https://web3vacancy.github.io/jobs/product-operations-manager-at-binance-8362/) | Binance | — |
-| [Public Relations Manager](https://web3vacancy.github.io/jobs/public-relations-manager-at-coinmarketcap-7374/) | CoinMarketCap | $86,250–$138,000 |
 | [QA Engineer - Binance](https://web3vacancy.github.io/jobs/qa-engineer-binance-at-binance-8400/) | Binance | — |
 | [Quantitative Researcher - Prediction Markets, Quant Trading](https://web3vacancy.github.io/jobs/quantitative-researcher-prediction-markets-quant-trading-at-crypto-com-8360/) | Crypto.com | $100,000–$150,000 |
 | [Regional Institutional Manager, Latin America](https://web3vacancy.github.io/jobs/regional-institutional-manager-latin-america-at-anchorage-8045/) | Anchorage | $75,000–$125,000 |
