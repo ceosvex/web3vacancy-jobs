@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-239 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+238 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 34
 
@@ -140,7 +140,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
-### Payments · 106
+### Payments · 105
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -176,7 +176,6 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Group Product Manager, Core Infra and Reliability](https://web3vacancy.github.io/jobs/group-product-manager-core-infra-and-reliability-at-coinbase-8189/) | Coinbase | $243,865–$286,900 |
 | [Growth Lead, Beacon Network](https://web3vacancy.github.io/jobs/growth-lead-beacon-network-at-trm-8365/) | TRM | — |
 | [Head of Compliance](https://web3vacancy.github.io/jobs/head-of-compliance-at-okx-8436/) | OKX | — |
-| [Head of Cross-Border Payments](https://web3vacancy.github.io/jobs/head-of-cross-border-payments-at-coins-ph-7389/) | Coins.ph | — |
 | [Head of Engineering](https://web3vacancy.github.io/jobs/head-of-engineering-at-coinhako-8036/) | Coinhako | — |
 | [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-8429/) | Coins | $112,000–$188,000 |
 | [Head of Payment Security & Transaction Integrity](https://web3vacancy.github.io/jobs/head-of-payment-security-and-transaction-integrity-at-coins-ph-8358/) | Coins.ph | — |
