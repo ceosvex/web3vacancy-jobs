@@ -2,7 +2,7 @@
 
 Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacancy.com) — the curated web3 / crypto / blockchain job board. Browse the rendered site at **https://web3vacancy.github.io/jobs/**.
 
-238 open roles. This repo is updated automatically by the job sync; do not edit by hand.
+237 open roles. This repo is updated automatically by the job sync; do not edit by hand.
 
 ### DeFi · 34
 
@@ -133,11 +133,10 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Technical Project Manager](https://web3vacancy.github.io/jobs/technical-project-manager-at-galaxy-digital-7941/) | Galaxy Digital | — |
 | [VP, Senior Product Security Engineer](https://web3vacancy.github.io/jobs/vp-senior-product-security-engineer-at-galaxy-digital-7980/) | Galaxy Digital | — |
 
-### GameFi · 2
+### GameFi · 1
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [Product Management Lead, Growth](https://web3vacancy.github.io/jobs/product-management-lead-growth-at-magic-eden-7390/) | Magic Eden | — |
 | [Senior Fullstack Engineer Backend Focus](https://web3vacancy.github.io/jobs/senior-fullstack-engineer-backend-focus-at-rugsdotfun-8333/) | RugsDotFun | $120,000–$200,000 |
 
 ### Payments · 105
