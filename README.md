@@ -43,7 +43,7 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Strategic Account Manager - Morpho Labs](https://web3vacancy.github.io/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/) | Morpho Labs | — |
 | [Tokenization and Investment Operations Specialist](https://web3vacancy.github.io/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/) | Centrifuge | — |
 
-### Infrastructure · 52
+### Infrastructure · 53
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
@@ -95,16 +95,16 @@ Auto-generated mirror of live vacancies from [web3vacancy.com](https://web3vacan
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7836/) | Fireblocks | — |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7936/) | Fireblocks | $60,000–$100,000 |
 | [Software Engineer - Steller](https://web3vacancy.github.io/jobs/software-engineer-steller-at-fireblocks-7935/) | Fireblocks | $60,000–$100,000 |
+| [Spontaneous application](https://web3vacancy.github.io/jobs/spontaneous-application-at-monetha-8504/) | Monetha | $28,500–$52,250 |
 | [Staff DevOps Engineer - Alchemy](https://web3vacancy.github.io/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/) | Alchemy | — |
 | [Staff Software Engineer - MetaMask (Money Movement)](https://web3vacancy.github.io/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/) | Consensys | $135,000–$225,000 |
 | [Staff Software Engineer, EAA CX](https://web3vacancy.github.io/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/) | Coinbase | $218,025–$256,500 |
 | [Staff Software Engineer, Trading Systems (Post-Trade Data)](https://web3vacancy.github.io/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/) | Gemini | — |
 
-### AI / ML · 28
+### AI / ML · 27
 
 | Role | Company | Salary |
 | :-- | :-- | :-- |
-| [AI Engineer - Crypto Finance](https://web3vacancy.github.io/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/) | Crypto Finance | — |
 | [AI Enterprise BD Lead](https://web3vacancy.github.io/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/) | Douro Labs | — |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7609/) | CoinMarketCap | — |
 | [AI Operations Specialist](https://web3vacancy.github.io/jobs/ai-operations-specialist-at-coinmarketcap-7626/) | Coinmarketcap | $52,000–$88,000 |

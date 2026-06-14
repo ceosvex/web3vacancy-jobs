@@ -45,7 +45,7 @@ permalink: /
 <li><a href="/jobs/strategic-account-manager-morpho-labs-at-morpho-labs-8035/"><span>Strategic Account Manager - Morpho Labs <span class="co">Morpho Labs</span></span></a></li>
 <li><a href="/jobs/tokenization-and-investment-operations-specialist-at-centrifuge-8330/"><span>Tokenization and Investment Operations Specialist <span class="co">Centrifuge</span></span></a></li>
 </ul>
-<h2>Infrastructure (52)</h2>
+<h2>Infrastructure (53)</h2>
 <ul class="jobs">
 <li><a href="/jobs/affiliate-relationship-manager-mena-at-binance-8184/"><span>Affiliate Relationship Manager - MENA <span class="co">Binance</span></span></a></li>
 <li><a href="/jobs/analytics-engineer-at-coinbase-8427/"><span>Analytics Engineer <span class="co">Coinbase</span></span><span class="pay">$90,000–$150,000</span></a></li>
@@ -95,14 +95,14 @@ permalink: /
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7836/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7936/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
 <li><a href="/jobs/software-engineer-steller-at-fireblocks-7935/"><span>Software Engineer - Steller <span class="co">Fireblocks</span></span><span class="pay">$60,000–$100,000</span></a></li>
+<li><a href="/jobs/spontaneous-application-at-monetha-8504/"><span>Spontaneous application <span class="co">Monetha</span></span><span class="pay">$28,500–$52,250</span></a></li>
 <li><a href="/jobs/staff-devops-engineer-alchemy-at-alchemy-8293/"><span>Staff DevOps Engineer - Alchemy <span class="co">Alchemy</span></span></a></li>
 <li><a href="/jobs/staff-software-engineer-metamask-money-movement-at-consensys-8175/"><span>Staff Software Engineer - MetaMask (Money Movement) <span class="co">Consensys</span></span><span class="pay">$135,000–$225,000</span></a></li>
 <li><a href="/jobs/staff-software-engineer-eaa-cx-at-coinbase-7952/"><span>Staff Software Engineer, EAA CX <span class="co">Coinbase</span></span><span class="pay">$218,025–$256,500</span></a></li>
 <li><a href="/jobs/staff-software-engineer-trading-systems-post-trade-data-at-gemini-8064/"><span>Staff Software Engineer, Trading Systems (Post-Trade Data) <span class="co">Gemini</span></span></a></li>
 </ul>
-<h2>AI / ML (28)</h2>
+<h2>AI / ML (27)</h2>
 <ul class="jobs">
-<li><a href="/jobs/ai-engineer-crypto-finance-at-crypto-finance-7391/"><span>AI Engineer - Crypto Finance <span class="co">Crypto Finance</span></span></a></li>
 <li><a href="/jobs/ai-enterprise-bd-lead-at-douro-labs-7713/"><span>AI Enterprise BD Lead <span class="co">Douro Labs</span></span></a></li>
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7609/"><span>AI Operations Specialist <span class="co">CoinMarketCap</span></span></a></li>
 <li><a href="/jobs/ai-operations-specialist-at-coinmarketcap-7626/"><span>AI Operations Specialist <span class="co">Coinmarketcap</span></span><span class="pay">$52,000–$88,000</span></a></li>
